@@ -1,0 +1,801 @@
+﻿BIG_BOARD,NAME,GRADE,POSITION,COLLEGE,COLLEGE_YEAR,DRAFT_YEAR
+1,BlakeGriffin,105,PF,Oklahoma,So.,2009
+2,JamesHarden,98,SG,Arizona St.,So.,2009
+3,RickyRubio,97,PG,FC Barcelona,1990,2009
+4,JordanHill,96,PF,Arizona,Jr.,2009
+5,BrandonJennings,97,PG,Virtus Roma,1989,2009
+6,HasheemThabeet,97,C,UConn,Jr.,2009
+7,StephenCurry,92,PG/SG,Davidson,Jr.,2009
+8,DeMarDeRozan,95,SG,USC,Fr.,2009
+9,BJMullens,94,C,Ohio St.,Fr.,2009
+10,JonnyFlynn,94,PG,Syracuse,So.,2009
+11,EarlClark,93,SF,Louisville,Jr.,2009
+12,JamesJohnson,95,SF,Wake Forest,So.,2009
+13,GeraldHenderson,94,SG/SF,Duke,Jr.,2009
+14,JeffTeague,93,PG,Wake Forest,So.,2009
+15,TyrekeEvans,94,SG,Memphis,Fr.,2009
+16,WayneEllington,95,SG,North Carolina,Jr.,2009
+17,EricMaynor,93,PG,VCU,Sr.,2009
+18,ChaseBudinger,95,SG/SF,Arizona,Jr.,2009
+19,DerrickBrown,93,SF,Xavier,Jr.,2009
+20,DeJuanBlair,93,PF,Pittsburgh,So.,2009
+21,TylerHansbrough,93,PF,North Carolina,Sr.,2009
+22,TerrenceWilliams,90,SG/SF,Louisville,Sr.,2009
+23,DaJuanSummers,93,SF,Georgetown,Jr.,2009
+24,OmriCasspi,91,SF,Maccabi Tel Aviv,1988,2009
+25,TyLawson,91,PG,North Carolina,Jr.,2009
+26,VictorClaver,92,SF,Pamesa Valencia,1988,2009
+27,TajGibson,90,PF,USC,Jr.,2009
+28,DarrenCollison,91,PG,UCLA,Sr.,2009
+29,ToneyDouglas,89,PG/SG,Florida St.,Sr.,2009
+30,SamYoung,90,SF,Pittsburgh,Sr.,2009
+31,JrueHoliday,91,PG/SG,UCLA,Fr.,2009
+32,DionteChristmas,89,SG,Temple,Sr.,2009
+33,JonasJerebko,88,SF,Angelico Biella,1987,2009
+34,JermaineTaylor,88,SG,Central Florida,Sr.,2009
+35,PatrickMills,89,PG,St. Mary's,So.,2009
+36,MarcusThornton,90,SG,LSU,Sr.,2009
+37,JoshHeytvelt,90,PF,Gonzaga,Sr.,2009
+38,AustinDaye,90,SF,Gonzaga,So.,2009
+39,JeffPendergraph,90,PF,Arizona St.,Sr.,2009
+40,RodrigueBeaubois,88,PG,Cholet Basket,1988,2009
+41,CurtisJerrells,90,PG,Baylor,Sr.,2009
+42,NickCalathes,90,PG,Panathinaikos,1989,2009
+43,JerelMcNeal,0,SG,Marquette,Sr.,2009
+44,JeffAdrien,89,PF,UConn,Sr.,2009
+45,LeoLyons,88,SF/PF,Missouri,Sr.,2009
+46,DanteCunningham,89,SF/PF,Villanova,Sr.,2009
+47,RobertDozier,75,SF/PF,Memphis,Sr.,2009
+48,DannyGreen,0,SF,North Carolina,Sr.,2009
+49,TyreseRice,91,PG,Boston College,Sr.,2009
+50,DeMarreCarroll,89,SF/PF,Missouri,Sr.,2009
+51,VyacheslavKravtsov,90,C,BC Kyiv,1987,2009
+52,SergioLlull,86,PG,Real Madrid,1987,2009
+53,WesleyMatthews,85,SG,Marquette,Sr.,2009
+54,JodieMeeks,85,SG,Kentucky,Jr.,2009
+55,TerrelHarris,85,SG,Oklahoma State,Sr.,2009
+56,ChrisJohnsonn,85,PF/C,LSU,Sr.,2009
+57,SergiiGladyr,88,SG,Mykolayiv,1989,2009
+58,AJPrice,89,PG,UConn,Sr.,2009
+59,VitorFaverani,0,PF/C,Unicaja Malaga,1988,2009
+60,CourtneyFells,0,SG,NC State,Sr.,2009
+61,LeeCummard,87,SG,,Sr.,2009
+62,AlonzoGee,90,SG,Alabama,Sr.,2009
+63,GarretSiler,83,C,Augusta St.,Sr.,2009
+64,AlexRuoff,0,SG,West Virginia,Sr.,2009
+65,MilenkoTepic,86,PG/SG,Partizan Belgrade,1987,2009
+66,ChristianEyenga,85,SG/SF,DKV Joventut,1989,2009
+67,EmirPreldzic,86,SG/SF,Fenerbahce Ulker,1987,2009
+68,HenkNorel,90,PF/C,DKV Joventut,1987,2009
+69,PaulHarris,89,SG/SF,Syracuse,Jr.,2009
+70,ChinemeluElonu,0,PF,Texas A&M,Jr.,2009
+71,JonBrockman,86,PF,Washington,Sr.,2009
+72,NandoDe,84,PG/SG,Cholet Basket,1987,2009
+73,JackMcClinton,85,SG,Miami,Sr.,2009
+74,StefonJackson,0,SG,UTEP,Sr.,2009
+75,AladeAminu,74,SF/PF,Georgia Tech,Sr.,2009
+76,JoshAkognon,87,PG,Cal State Fullerton,Sr.,2009
+77,BrandonCostner,0,SF,NC State,Jr.,2009
+78,LesterHudson,88,PG/SG,Tennessee-Martin,Sr.,2009
+79,RobertVaden,89,SG,UAB,Sr.,2009
+80,MicahDowns,87,SG/SF,Gonzaga,Sr.,2009
+81,DanielHackett,0,PG/SG,USC,Jr.,2009
+82,LukeNevill,86,C,Utah,Sr.,2009
+83,AJAbrams,0,PG/SG,Texas,Sr.,2009
+84,JoshShipp,88,SG,UCLA,Sr.,2009
+85,DominicJames,86,PG,Marquette,Sr.,2009
+86,JeremyPargo,89,PG,Gonzaga,Sr.,2009
+87,RussellHicks,0,C,Florida International,Sr.,2009
+88,PatrickBeverly,88,PG/SG,Dnipro Dnepropetrovsk (Ukraine),1988,2009
+89,JoshCarter,88,SG,Texas A&M,Sr.,2009
+90,CedricJackson,0,PG,Cleveland St.,Sr.,2009
+91,LuigiDatome,0,SF,Lottomatica Virtus Roma,1987,2009
+92,AntonioAnderson,0,SG,Memphis,Sr.,2009
+93,JoeIngles,0,SG/SF,South Dragons,1987,2009
+94,KevinRogers,0,SF/PF,Baylor,Sr.,2009
+95,CharlieColey,86,SF,Charlotte,Sr.,2009
+96,LorrenzoWade,0,SG,San Diego St.,Sr.,2009
+97,EricDevendorf,85,PG/SG,Syracuse,Jr.,2009
+98,LewisClinch,0,SG,Georgia Tech,Sr.,2009
+99,DarTucker,0,SG,DePaul,So.,2009
+100,ConnorAtchley,89,PF,Texas,Sr.,2009
+1,JohnWall,103,PG,Kentucky,Fr.,2010
+2,EvanTurner,97,SG,Ohio St.,Jr.,2010
+3,DerrickFavors,98,PF,Georgia Tech,Fr.,2010
+4,WesleyJohnson,97,SF,Syracuse,Jr.,2010
+5,GregMonroe,96,PF/C,Georgetown,So.,2010
+6,PatrickPatterson,96,PF,Kentucky,Jr.,2010
+7,DeMarcusCousins,94,PF/C,Kentucky,Fr.,2010
+8,LukeBabbitt,94,SF/PF,Nevada,So.,2010
+9,Al-FarouqAminu,96,SF,Wake Forest,So.,2010
+10,PaulGeorge,95,SF,Fresno St.,So.,2010
+11,EdDavis,94,PF,North Carolina,So.,2010
+12,XavierHenry,93,SG,Kansas,Fr.,2010
+13,AveryBradley,93,SG,Texas,Fr.,2010
+14,HassanWhiteside,94,C,Marshall,Fr.,2010
+15,ColeAldrich,93,C,Kansas,Jr.,2010
+16,GordonHayward,92,SF,Butler,So.,2010
+17,EkpeUdoh,92,PF,Baylor,Jr.,2010
+18,DevinEbanks,93,SF,West Virginia,So.,2010
+19,JamesAnderson,92,SG,Oklahoma State,Jr.,2010
+20,DanielOrton,92,PF/C,Kentucky,Fr.,2010
+21,ElliotWilliams,94,SG,Memphis,So.,2010
+22,ArmonJohnson,91,PG/SG,Nevada,Jr.,2010
+23,CraigBrackins,92,PF,Iowa St.,Jr.,2010
+24,GaniLawal,91,PF,Georgia Tech,Jr.,2010
+25,DominiqueJones,92,SG,South Florida,Jr.,2010
+26,TerricoWhite,92,PG/SG,Mississippi,So.,2010
+27,EricBledsoe,90,PG/SG,Kentucky,Fr.,2010
+28,LarrySanders,92,PF/C,VCU,Jr.,2010
+29,DamionJames,92,SF,Texas,Sr.,2010
+30,StanleyRobinson,92,SF,UConn,Sr.,2010
+31,KevinSeraphin,90,PF/C,Cholet,1989,2010
+32,WillieWarren,89,PG/SG,Oklahoma,So.,2010
+33,LanceStephenson,91,SG,Cincinnati,Fr.,2010
+34,NemanjaBjelica,92,SF,Red Star,1988,2010
+35,QuincyPondexter,90,SF,Washington,Sr.,2010
+36,JordanCrawford,89,SG,Xavier,So.,2010
+37,TrevorBooker,90,PF,Clemson,Sr.,2010
+38,DwayneCollins,88,PF,Miami,Sr.,2010
+39,LazarHayward,90,SF,Marquette,Sr.,2010
+40,TinyGallon,90,PF,Oklahoma,Fr.,2010
+41,JeromeJordan,90,C,Tulsa,Sr.,2010
+42,SolomonAlabi,89,C,Florida St.,So.,2010
+43,Da'SeanButler,91,SF,West Virginia,Sr.,2010
+44,TiborPleiss,90,C,Brose Baskets,1989,2010
+45,GreivisVasquez,91,PG/SG,Maryland,Sr.,2010
+46,MannyHarris,89,SG,Michigan,Jr.,2010
+47,MikhailTorrance,89,PG/SG,Alabama,Sr.,2010
+48,MacKoshwal,89,PF,DePaul,Jr.,2010
+49,JarvisVarnado,88,PF,Mississippi St.,Sr.,2010
+50,LataviousWilliams,88,PF,Tulsa 66ers (D-League),1989,2010
+51,ArtParakhouski,89,C,Radford,Sr.,2010
+52,MattBouldin,86,PG/SG,Gonzaga,Sr.,2010
+53,SamardoSamuels,89,PF,Louisville,So.,2010
+54,DaringtonHobson,89,SF,New Mexico,Jr.,2010
+55,DenisClemente,88,PG,Kansas State,Sr.,2010
+56,MarquisGilstrap,87,SF,Iowa St.,Sr.,2010
+57,HamadyNdiaye,87,C,Rutgers,Sr.,2010
+58,CharlesGarcia,82,SF/PF,Seattle,Jr.,2010
+59,LandonMilbourne,88,SF,Maryland,Sr.,2010
+60,LukeHarangody,72,SF/PF,Notre Dame,Sr.,2010
+61,SherronCollins,88,PG,Kansas,Sr.,2010
+62,AlexeyShved,91,PG/SG,Dynamo Moscow,1988,2010
+63,AndyRautins,86,SG,Syracuse,Sr.,2010
+64,AJOgilvy,87,C,Vanderbilt,Jr.,2010
+65,MiroslavRaduljica,87,C,FMP Zeleznik,1988,2010
+66,DexterPittman,86,C,Texas,Sr.,2010
+67,MichaelWashington,87,PF,Arkansas,Sr.,2010
+68,PauloPrestes,86,PF/C,CB Murcia,1988,2010
+69,RyanRichards,87,PF/C,Gran Canaria,1991,2010
+70,ThomasHeurtel,86,PG,Strasbourg,1989,2010
+71,DerrickCaracter,87,PF,UTEP,Jr.,2010
+72,JeromeDyson,88,SG,UConn,Sr.,2010
+73,KevinPalmer,88,SF,Texas A&M Corpus Christi,Sr.,2010
+74,TylerSmith,89,SF,Bornova (Turkey),1986,2010
+75,MagnumRolle,87,SF/PF,Louisiana Tech,Sr.,2010
+76,JPPrince,86,SG,Tennessee,Sr.,2010
+77,TheoRobertson,85,SG/SF,California,Sr.,2010
+78,BenUzoh,87,PG/SG,Tulsa,Sr.,2010
+79,RyanThompson,86,SG/SF,Rider,Sr.,2010
+80,TimOhlbrecht,88,PF,Telekom Baskets Bonn,1988,2010
+81,DeonThompson,86,PF,North Carolina,Sr.,2010
+82,TommyMason-Griffin,85,PG,Oklahoma,Fr.,2010
+83,JonScheyer,87,PG/SG,Duke,Sr.,2010
+84,EdwinUbiles,86,SG,Siena,Sr.,2010
+85,TyrenJohnson,86,SF,Louisiana Lafayette,Sr.,2010
+86,DeShawnSims,72,SF/PF,Michigan,Sr.,2010
+87,SylvenLandesberg,0,SG,Virginia,So.,2010
+88,WayneChism,87,PF,Tennessee,Sr.,2010
+89,MarqusBlakely,87,SF,Vermont,Sr.,2010
+90,JeromeRandle,86,PG,California,Sr.,2010
+91,RaymarMorgan,85,SF,Michigan St.,Sr.,2010
+92,AubreyColeman,87,SG,Houston,Sr.,2010
+93,LandryFields,86,SF,Stanford,Sr.,2010
+94,MarcusJohnson,85,SG,USC,Sr.,2010
+95,OmarSamhan,85,C,St. Mary's,Sr.,2010
+96,DominiqueArchie,0,SF,South Carolina,Sr.,2010
+97,BobanMarjanovic,90,C,Hemofarm,1988,2010
+98,VladimirDasic,85,SF,Real Madrid,1988,2010
+99,PatrickChristopher,88,SG/SF,California,Sr.,2010
+100,ScottieReynolds,85,PG,Villanova,Sr.,2010
+1,DerrickWilliams,83,SF/PF,Arizona,So.,2011
+2,EnesKanter,98,PF/C,Kentucky,Fr.,2011
+3,KyrieIrving,97,PG,Duke,Fr.,2011
+4,BrandonKnight,96,PG/SG,Kentucky,Fr.,2011
+5,DonatasMotiejunas,96,PF,Benetton Treviso,1990,2011
+6,JanVesely,95,SF/PF,Partizan Belgrade,1990,2011
+7,JonasValanciunas,93,C,Lietuvos Rytas,1992,2011
+8,JimmerFredette,93,PG,,Sr.,2011
+9,TristanThompson,92,PF,Texas,Fr.,2011
+10,AlecBurks,95,PG/SG,Colorado,So.,2011
+11,KlayThompson,93,SG/SF,Washington State,Jr.,2011
+12,KembaWalker,95,PG,UConn,Jr.,2011
+13,KawhiLeonard,93,SF,San Diego St.,So.,2011
+14,MarcusMorris,78,SF/PF,Kansas,Jr.,2011
+15,MarkieffMorris,94,PF,Kansas,Jr.,2011
+16,JordanHamilton,91,SG/SF,Texas,So.,2011
+17,TobiasHarris,78,SF/PF,Tennessee,Fr.,2011
+18,TylerHoneycutt,93,SG/SF,UCLA,So.,2011
+19,ChrisSingleton,78,SF/PF,Florida St.,Jr.,2011
+20,MarshonBrooks,92,SG,Providence,Sr.,2011
+21,TreyThompkins,92,PF,Georgia,Jr.,2011
+22,KennethFaried,92,PF,Morehead St.,Sr.,2011
+23,DariusMorris,92,PG,Michigan,So.,2011
+24,BismackBiyombo,89,C,Fuenlabrada,1992,2011
+25,JaJuanJohnson,90,PF,Purdue,Sr.,2011
+26,JustinHarper,91,PF,Richmond,Sr.,2011
+27,DavisBertans,92,SF,Union Olimpija,1992,2011
+28,NikolaVucevic,90,C,USC,Jr.,2011
+29,NorrisCole,91,PG,Cleveland St.,Sr.,2011
+30,KyleSingler,90,SF,Duke,Sr.,2011
+31,JeremyTyler,90,PF/C,Tokyo Apache,1991,2011
+32,NikolaMirotic,82,SF/PF,Real Madrid,1991,2011
+33,ShelvinMack,88,PG/SG,Butler,Jr.,2011
+34,NolanSmith,90,PG/SG,Duke,Sr.,2011
+35,ReggieJackson,89,PG/SG,Boston College,Jr.,2011
+36,ChandlerParsons,89,SF,Florida,Sr.,2011
+37,TravisLeslie,89,SG/SF,Georgia,Jr.,2011
+38,JonLeuer,90,PF,Wisconsin,Sr.,2011
+39,MalcolmLee,88,PG/SG,UCLA,Jr.,2011
+40,JoshSelby,90,PG/SG,Kansas,Fr.,2011
+41,JordanWilliams,91,PF,Maryland,So.,2011
+42,CoryJoseph,89,PG,Texas,Fr.,2011
+43,ImanShumpert,89,PG/SG,Georgia Tech,Jr.,2011
+44,AndrewGoudelock,88,PG/SG,Charleston,Sr.,2011
+45,KeithBenson,88,C,Oakland,Sr.,2011
+46,CharlesJenkins,88,PG/SG,Hofstra,Sr.,2011
+47,MatthewBryan-Amaning,88,PF,Washington,Sr.,2011
+48,BojanBogdanovic,86,SG/SF,Fenerbahe Ulke,1989,2011
+49,XaviRabaseda,86,SG,Regal FC Barcelona,1989,2011
+50,JimmyButler,88,SF,Marquette,Sr.,2011
+51,MalcolmThomas,85,PF,San Diego St.,Sr.,2011
+52,WillieReed,88,PF,St. Louis,Jr.,2011
+53,RavernJohnson,89,SG/SF,Mississippi St.,Sr.,2011
+54,JulyanStone,87,PG,UTEP,Sr.,2011
+55,RickJackson,88,PF,Syracuse,Sr.,2011
+56,DeAndreLiggins,88,SG,Kentucky,Jr.,2011
+57,GregSmith,87,PF/C,Fresno St.,So.,2011
+58,JeremeRichmond,86,SF,Illinois,Fr.,2011
+59,E'twaunMoore,87,PG/SG,Purdue,Sr.,2011
+60,DavidLighty,89,SG,Ohio St.,Sr.,2011
+61,CamLong,87,SG,George Mason,Sr.,2011
+62,JustinHurtt,88,SG,Tulsa,Sr.,2011
+63,LaceDariusDunn,89,SG,Baylor,Sr.,2011
+64,DeAngeloCasto,87,PF,Washington State,Jr.,2011
+65,JamieSkeen,86,PF,VCU,Sr.,2011
+66,GaryFlowers,89,SF,Southern Miss.,Sr.,2011
+67,DianteGarrett,86,PG,Iowa St.,Sr.,2011
+68,VernonMacklin,86,PF,Florida,Sr.,2011
+69,JaminePeterson,84,PF,New Mexico Thunderbirds,1988,2011
+70,XavierSilas,0,SG,Northern Illinois,Sr.,2011
+71,ChrisWright,87,SF/PF,Dayton,Sr.,2011
+72,JonDiebler,86,SG,Ohio St.,Sr.,2011
+73,MikeDavis,81,SF/PF,Illinois,Sr.,2011
+74,DemetriMcCamey,88,PG,Illinois,Sr.,2011
+75,BradWanamaker,86,PG/SG,Pittsburgh,Sr.,2011
+76,JohnHolland,0,SG,Boston University,Sr.,2011
+77,ScottyHopson,87,SG/SF,Tennessee,Jr.,2011
+78,JustinBrownlee,88,SF,St. Johns,Sr.,2011
+79,DogusBalbay,85,PG,Texas,Sr.,2011
+80,MichaelDunigan,0,PF,Hapoel Migdal Jerusalem,1989,2011
+81,AustinFreeman,86,SG,Georgetown,Sr.,2011
+82,JeffAllen,70,SF/PF,Virginia Tech,Sr.,2011
+83,DelroyJames,0,SF,Rhode Island,Sr.,2011
+84,ChaissonAllen,88,PG/SG,Northeastern,Sr.,2011
+85,BenHansbrough,85,PG/SG,Notre Dame,Sr.,2011
+86,CoreyFisher,88,PG,Villanova,Sr.,2011
+87,RandyCulpepper,85,PG,UTEP,Sr.,2011
+88,LavoyAllen,0,PF,Temple,Sr.,2011
+89,TerrenceJennings,0,PF,Louisville,Jr.,2011
+90,PabloAguilar,75,SF/PF,CB Granada,1989,2011
+91,GilbertBrown,0,SG,Pittsburgh,Sr.,2011
+92,StevenGray,86,SG,Gonzaga,Sr.,2011
+93,CoryHiggins,0,PG/SG,Colorado,Sr.,2011
+94,JacobPullen,86,PG/SG,Kansas State,Sr.,2011
+95,SamMuldrow,0,PF,South Carolina,Sr.,2011
+96,AlexTyus,0,SF/PF,Florida,Sr.,2011
+97,JeremyHazell,0,SG,Seton Hall,Sr.,2011
+98,ClarenceJackson,0,SG,Siena,Sr.,2011
+99,FerrakohnHall,0,SF/PF,Memphis,Sr.,2011
+100,MarkPayne,86,PG/SG,UC Davis,Sr.,2011
+1,AnthonyDavis,101,PF,Kentucky,Fr.,2012
+2,AndreDrummond,99,PF/C,UConn,Fr.,2012
+3,HarrisonBarnes,97,SF,North Carolina,So.,2012
+4,BradleyBeal,94,SG,Florida,Fr.,2012
+5,JeremyLamb,97,SG,UConn,So.,2012
+6,ThomasRobinson,97,PF,Kansas,Jr.,2012
+7,DamianLillard,96,PG,Weber St.,Jr.,2012
+8,MichaelKidd-Gilchrist,96,SF,Kentucky,Fr.,2012
+9,TerrenceRoss,96,SG/SF,Washington,So.,2012
+10,AustinRivers,94,SG,Duke,Fr.,2012
+11,MeyersLeonard,95,C,Illinois,So.,2012
+12,TylerZeller,93,PF/C,North Carolina,Sr.,2012
+13,KendallMarshall,93,PG,North Carolina,So.,2012
+14,MoeHarkless,94,SF,St. Johns,Fr.,2012
+15,AndrewNicholson,93,PF,St. Bonaventure,Sr.,2012
+16,ArnettMoultrie,94,PF,Mississippi St.,Jr.,2012
+17,DionWaiters,93,SG,Syracuse,So.,2012
+18,PerryJones,94,SF/PF,Baylor,So.,2012
+19,JaredSullinger,92,PF,Ohio St.,So.,2012
+20,JohnHenson,94,PF,North Carolina,Jr.,2012
+21,TerrenceJones,93,SF/PF,Kentucky,So.,2012
+22,MarquisTeague,93,PG,Kentucky,Fr.,2012
+23,RoyceWhite,94,SF,Iowa St.,So.,2012
+24,JohnJenkins,92,SG,Vanderbilt,Jr.,2012
+25,DoronLamb,92,SG,Kentucky,So.,2012
+26,QuincyMiller,89,SF,Baylor,Fr.,2012
+27,WillBarton,89,SG/SF,Memphis,So.,2012
+28,KhrisMiddleton,90,SG/SF,Texas A&M,Jr.,2012
+29,TonyWroten,92,PG/SG,Washington,Fr.,2012
+30,JefferyTaylor,92,SF,Vanderbilt,Sr.,2012
+31,FabMelo,90,C,Syracuse,So.,2012
+32,JaredCunningham,90,SG,Oregon St.,Jr.,2012
+33,FestusEzeli,89,C,Vanderbilt,Sr.,2012
+34,DraymondGreen,89,SF/PF,Michigan St.,Sr.,2012
+35,EvanFournier,89,SG,Union Poitiers Basket 86,1992,2012
+36,FurkanAldemir,89,PF,Galatasaray,1991,2012
+37,DariusMiller,89,SF,Kentucky,Sr.,2012
+38,KrisJoseph,89,SF,Syracuse,Sr.,2012
+39,KevinMurphy,90,SG,Tennessee Tech,Sr.,2012
+40,KimEnglish,88,SG,Missouri,Sr.,2012
+41,DrewGordon,90,PF,New Mexico,Sr.,2012
+42,KostasPapanikolaou,89,SF,Olympiacos,1990,2012
+43,MikeScott,89,PF,Virginia,Sr.,2012
+44,DariusJohnson-Odom,87,SG,Marquette,Sr.,2012
+45,JaMychalGreen,89,PF,Alabama,Sr.,2012
+46,WilliamBuford,88,SG,Ohio St.,Sr.,2012
+47,HollisThompson,89,SG,Georgetown,Jr.,2012
+48,TomasSatoransky,89,PG/SG,Cajasol Sevilla,1991,2012
+49,TornikeShengelia,86,SF,Belgacom Spirou,1991,2012
+50,KevinJones,90,PF,West Virginia,Sr.,2012
+51,QuincyAcy,86,PF,Baylor,Sr.,2012
+52,RobertSacre,89,C,Gonzaga,Sr.,2012
+53,ChrisJohnson,87,SG,Dayton,Sr.,2012
+54,AlexYoung,91,SG/SF,IUPUI,Sr.,2012
+55,MaalikWayns,89,PG,Villanova,Jr.,2012
+56,HenrySims,0,C,Georgetown,Sr.,2012
+57,CameronMoore,88,PF,UAB,Sr.,2012
+58,TerranceHenry,74,SF/PF,Mississippi,Sr.,2012
+59,MilesPlumlee,86,PF/C,Duke,Sr.,2012
+60,JosepFranch,88,PG,UCAM Murcia,1991,2012
+61,RamoneMoore,88,SG,Temple,Sr.,2012
+62,JustinHamilton,88,C,LSU,Jr.,2012
+63,TyshawnTaylor,86,PG/SG,Kansas,Sr.,2012
+64,ScottMachado,86,PG,Iona,Sr.,2012
+65,KyleO'Quinn,0,PF,Norfolk St.,Sr.,2012
+66,TonyMitchell,88,SF,Alabama,Jr.,2012
+67,OrlandoJohnson,0,SF,UC Santa Barbara,Sr.,2012
+68,BernardJames,87,PF,Florida St.,Sr.,2012
+69,MarcusDenmon,0,PG/SG,Missouri,Sr.,2012
+70,XavierGibson,86,PF,Florida St.,Sr.,2012
+71,HerbPope,0,PF,Seton Hall,Sr.,2012
+72,J'CovanBrown,86,PG/SG,Texas,Jr.,2012
+73,LeonRadosevic,87,PF,EA7 Milano,1990,2012
+74,JaeCrowder,71,SF/PF,Marquette,Sr.,2012
+75,ReggieHamilton,86,PG,Oakland,Sr.,2012
+76,IlkanKaraman,87,PF,Galatasaray,1990,2012
+77,RobbieHummel,87,SF,Purdue,Sr.,2012
+78,DeeBost,0,PG,Mississippi St.,Sr.,2012
+79,TuHolloway,86,PG,Xavier,Sr.,2012
+80,MitchellWatt,87,PF,Buffalo,Sr.,2012
+81,ChaceStanback,0,SG/SF,UNLV,Sr.,2012
+82,YancyGates,88,PF/C,Cincinnati,Sr.,2012
+83,RakimSanders,85,SF,Fairfield,Sr.,2012
+84,GregMangano,87,PF/C,Yale,Sr.,2012
+85,EliHolman,0,PF,Detroit,Sr.,2012
+86,AlenOmic,0,C,Union Olimpija,1992,2012
+87,RicardoRatliffe,0,PF,Missouri,Sr.,2012
+88,BradfordBurgess,0,SG/SF,VCU,Sr.,2012
+89,CarlonBrown,0,SG,Colorado,Sr.,2012
+90,GarrettStutz,0,C,Wichita State,Sr.,2012
+91,DionDixon,0,SG,Cincinnati,Sr.,2012
+92,CasperWare,86,PG,Long Beach State,Sr.,2012
+93,CharlieWestbrook,0,SG,USA,Sr.,2012
+94,KennyFrease,0,C,Xavier,Sr.,2012
+95,ZackRosen,0,PG,Pennsylvania,Sr.,2012
+96,KentBazemore,0,SG,Old Dominion,Sr.,2012
+97,LarryAnderson,0,SG/SF,Long Beach State,Sr.,2012
+98,DarioHunt,0,PF,Nevada,Sr.,2012
+99,KyleFogg,0,SG,Arizona,Sr.,2012
+100,NickBarbour,0,SG,N/A,Sr.,2012
+1,BenMcLemore,98,SG,Kansas,Fr.,2013
+2,CodyZeller,95,PF/C,Indiana,So.,2013
+3,CJMcCollum,94,PG/SG,Lehigh,Sr.,2013
+4,AlexLen,96,C,Maryland,So.,2013
+5,VictorOladipo,94,SG/SF,Indiana,Jr.,2013
+6,NerlensNoel,95,PF/C,Kentucky,Fr.,2013
+7,OttoPorter,94,SF,Georgetown,So.,2013
+8,AnthonyBennett,94,SF/PF,UNLV,Fr.,2013
+9,LucasNogueira,94,PF/C,Estudiantes,1992,2013
+10,DennisSchroder,93,PG,New Yorker Phantoms Braunschweig,1993,2013
+11,TreyBurke,93,PG,Michigan,So.,2013
+12,KentaviousCaldwell-Pope,93,SG,Georgia,So.,2013
+13,StevenAdams,92,C,Pittsburgh,Fr.,2013
+14,MichaelCarter-Williams,92,PG,Syracuse,So.,2013
+15,GiannisAdetokoubo,92,SF,Filathlitikos,1994,2013
+16,TimHardaway,92,SG,Michigan,Jr.,2013
+17,ShabazzMuhammad,92,SF,UCLA,Fr.,2013
+18,KellyOlynyk,92,C,Gonzaga,Jr.,2013
+19,TonyMitchell,0,SF/PF,North Texas,So.,2013
+20,TonySnell,92,SG/SF,New Mexico,Jr.,2013
+21,NateWolters,91,PG,South Dakota St.,Sr.,2013
+22,SergeyKarasev,91,SG/SF,BC Triumph,1993,2013
+23,ShaneLarkin,0,PG,Miami,So.,2013
+24,GorguiDieng,91,C,Louisville,Jr.,2013
+25,MasonPlumlee,91,PF,Duke,Sr.,2013
+26,LivioJean-Charles,75,SF/PF,ASVEL Villeubanne,1993,2013
+27,AllenCrabbe,90,SG,California,Jr.,2013
+28,ErickGreen,89,PG/SG,Virginia Tech,Sr.,2013
+29,IsaiahCanaan,91,PG,Murray St.,Sr.,2013
+30,RudyGobert,90,C,Cholet,1992,2013
+31,ReggieBullock,88,SG/SF,North Carolina,Jr.,2013
+32,JamaalFranklin,89,SG/SF,San Diego St.,Jr.,2013
+33,GlenRice,89,SG,USA,Jr.,2013
+34,RicardoLedo,90,SG,Providence,Fr.,2013
+35,LorenzoBrown,90,PG/SG,NC State,Jr.,2013
+36,JeffWithey,89,C,Kansas,Sr.,2013
+37,CJLeslie,75,SF/PF,NC State,Jr.,2013
+38,JamesEnnis,90,SG/SF,Long Beach State,Sr.,2013
+39,RobertCovington,88,SF,Tennessee State,Sr.,2013
+40,JamesSoutherland,82,SF/PF,Syracuse,Sr.,2013
+41,PierreJackson,89,PG,Baylor,Sr.,2013
+42,MyckKabongo,88,PG,Texas,So.,2013
+43,ErikMurphy,86,PF,Florida,Sr.,2013
+44,KennyKadji,88,PF/C,Miami,Sr.,2013
+45,TrevorMbakwe,89,PF/C,Minnesota,Sr.,2013
+46,RodneyWilliams,87,SF,Minnesota,Sr.,2013
+47,BojanDubljevic,87,PF/C,Valencia,1991,2013
+48,DeShaunThomas,74,SF/PF,Ohio St.,Jr.,2013
+49,RyanKelly,87,PF,Duke,Sr.,2013
+50,ArchieGoodwin,89,SG,Kentucky,Fr.,2013
+51,GrantJerrett,87,PF,Arizona,Fr.,2013
+52,RayMcCallum,88,PG,Detroit,Jr.,2013
+53,AlexAbrines,87,SG,Barcelona Regal,1993,2013
+54,DewayneDedmon,87,C,USC,Jr.,2013
+55,CarrickFelix,89,SG/SF,Arizona St.,Sr.,2013
+56,JanisTimma,85,SF,Ventspils,1992,2013
+57,PeytonSiva,86,PG,Louisville,Sr.,2013
+58,NemanjaNedovic,88,PG/SG,Lietuvos Rytas,1991,2013
+59,AndreRoberson,87,SF/PF,Colorado,Jr.,2013
+60,SolomonHill,89,SF,Arizona,Sr.,2013
+61,AdonisThomas,87,SF,Memphis,So.,2013
+62,JackieCarmichael,0,PF,Illinois State,Sr.,2013
+63,VanderBlue,0,PG/SG,Marquette,Jr.,2013
+64,VitalisChikoko,0,PF/C,TBB Trier,1991,2013
+65,AmathMbaye,85,SF,Oklahoma,Jr.,2013
+66,BrandonPaul,89,SG,Illinois,Sr.,2013
+67,DJStephens,0,SG/SF,Memphis,Sr.,2013
+68,ColtonIverson,85,PF/C,Colorado St.,Sr.,2013
+69,RichardHowell,86,PF/C,NC State,Sr.,2013
+70,MikeMuscala,88,PF/C,Bucknell,Sr.,2013
+71,OleksandrLypovyy,0,SF,BC Donetsk,1991,2013
+72,MichaelSnaer,85,SG,Florida St.,Sr.,2013
+73,BJYoung,88,SG,Arkansas,So.,2013
+74,AugustoLima,89,PF,Unicaja Malaga,1991,2013
+75,BrandonDavies,87,PF,BYU,Sr.,2013
+76,JordanAboudou,86,SG/SF,Chalon,1991,2013
+77,ArsalanKazemi,87,PF,Oregon,Sr.,2013
+78,RaulNeto,87,PG,Lagun Aro GBC,1992,2013
+79,SethCurry,85,PG/SG,Duke,Sr.,2013
+80,RodneyMcGruder,0,SG,Kansas State,Sr.,2013
+81,AlexOriakhi,87,PF/C,Missouri,Sr.,2013
+82,WillCherry,85,PG,Montana,Sr.,2013
+83,DanielTheis,0,PF,Ratiopharm Ulm,1992,2013
+84,MarkoTodorovic,85,PF/C,Barcelona Regal,1992,2013
+85,CJAiken,71,SF/PF,St. Joseph's,Jr.,2013
+86,EliasHarris,86,SF/PF,Gonzaga,Sr.,2013
+87,PhilPressey,85,PG,Missouri,Jr.,2013
+88,AlexandreParanhos,0,SF/PF,Flamengo,1992,2013
+89,DerrickNix,85,PF/C,Michigan St.,Sr.,2013
+90,KevinParrom,76,SG/SF,Arizona,Sr.,2013
+91,JackCooley,87,PF,Notre Dame,Sr.,2013
+92,JoffreyLauvergne,89,PF/C,KK Partizan,1991,2013
+93,DurandScott,88,SG,Miami,Sr.,2013
+94,ChristianWatford,85,SF,Indiana,Sr.,2013
+95,BrandonTriche,86,PG/SG,Syracuse,Sr.,2013
+96,ElijahJohnson,89,PG/SG,Kansas,Sr.,2013
+97,KennyBoynton,87,PG/SG,Florida,Sr.,2013
+98,DevinBooker,0,PF/C,Clemson,Sr.,2013
+99,EdDaniel,0,SF/PF,Murray St.,Sr.,2013
+100,MarshawnPowell,0,PF,Arkansas,Jr.,2013
+1,JoelEmbiid,100,C,Kansas,Fr.,2014
+2,JabariParker,100,SF/PF,Duke,Fr.,2014
+3,AndrewWiggins,99,SF,Kansas,Fr.,2014
+4,MarcusSmart,96,PG,Oklahoma State,So.,2014
+5,DanteExum,95,PG/SG,,1995,2014
+6,JuliusRandle,96,PF,Kentucky,Fr.,2014
+7,NoahVonleh,95,PF,Indiana,Fr.,2014
+8,ZachLaVine,95,PG/SG,UCLA,Fr.,2014
+9,ElfridPayton,94,PG,Louisiana Lafayette,Jr.,2014
+10,DougMcDermott,92,SF,Creighton,Sr.,2014
+11,AaronGordon,92,PF,Arizona,Fr.,2014
+12,GaryHarris,92,SG,Michigan St.,So.,2014
+13,RodneyHood,94,SF,Duke,So.,2014
+14,NikStauskas,92,SG,Michigan,So.,2014
+15,GlennRobinson,92,SF,Michigan,So.,2014
+16,TJWarren,93,SF,NC State,So.,2014
+17,KyleAnderson,93,SF,UCLA,So.,2014
+18,DarioSaric,75,SF/PF,Anadolu Efes,1994,2014
+19,JordanClarkson,91,PG/SG,Missouri,Jr.,2014
+20,ShabazzNapier,93,PG,UConn,Sr.,2014
+21,TylerEnnis,93,PG,Syracuse,Fr.,2014
+22,JamesYoung,92,SG,Kentucky,Fr.,2014
+23,JusufNurkic,92,C,Cedevita Zagreb,1994,2014
+24,JeramiGrant,93,SF,Syracuse,So.,2014
+25,CleanthonyEarly,93,SF/PF,Wichita State,Sr.,2014
+26,CJWilcox,91,SG,Washington,Sr.,2014
+27,AdreianPayne,92,PF,Michigan St.,Sr.,2014
+28,JordanAdams,91,SG,UCLA,So.,2014
+29,BogdanBogdanovic,90,SG,KK Partizan,1992,2014
+30,SpencerDinwiddie,92,PG/SG,Colorado,Jr.,2014
+31,VasiljeMicic,91,PG,Mega Vizura,1994,2014
+32,KJMcDaniels,89,SF,Clemson,Jr.,2014
+33,JarnellStokes,87,PF,Tennessee,Jr.,2014
+34,JohnnyO'Bryant,89,PF/C,LSU,Jr.,2014
+35,MarkelBrown,91,SG,Oklahoma State,Sr.,2014
+36,PJHairston,87,SG,USA,Jr.,2014
+37,ClintCapela,87,PF/C,Chalon,1994,2014
+38,DeAndreDaniels,90,SF,UConn,Jr.,2014
+39,NickJohnson,89,SG,Arizona,Jr.,2014
+40,DwightPowell,87,PF,Stanford,Sr.,2014
+41,ThanasisAntetokounmpo,88,SF,Delaware 87ers,1992,2014
+42,SemajChriston,91,PG,Xavier,So.,2014
+43,KhemBirch,88,PF,UNLV,Jr.,2014
+44,DamienInglis,89,SF/PF,Roanne,1995,2014
+45,MitchMcGary,89,C,Michigan,So.,2014
+46,JabariBrown,86,SG,Missouri,Jr.,2014
+47,JamesMcAdoo,87,PF,North Carolina,Jr.,2014
+48,CameronBairstow,87,PF,New Mexico,Sr.,2014
+49,DeonteBurton,88,PG/SG,Nevada,Sr.,2014
+50,CJFair,89,SF,Syracuse,Sr.,2014
+51,CoryJefferson,87,PF,Baylor,Sr.,2014
+52,AlecBrown,85,PF/C,Wisconsin Green Bay,Sr.,2014
+53,AlessandroGentile,86,SG/SF,Olimpia Milano,1992,2014
+54,ArtemKlimenko,86,C,Avtodor,1994,2014
+55,NemanjaDangubic,0,SG,Mega Vizura,1993,2014
+56,RonaldRoberts,86,PF,St. Joseph's,Sr.,2014
+57,DeAndreKane,86,PG/SG,Iowa St.,Sr.,2014
+58,TarikBlack,0,PF/C,Kansas,Sr.,2014
+59,PatricYoung,86,PF/C,Florida,Sr.,2014
+60,JuvonteReddic,86,PF/C,VCU,Sr.,2014
+61,NikolaJokic,85,PF/C,Mega Vizura,1995,2014
+62,WalterTavares,88,C,Gran Canaria,1992,2014
+63,FuquanEdwin,89,SG/SF,Seton Hall,Sr.,2014
+64,AndreDawkins,85,SG,Duke,Sr.,2014
+65,OjarsSilins,86,SF,Reggio Emilia,1993,2014
+66,SeanKilpatrick,86,SG,Cincinnati,Sr.,2014
+67,JahiiCarson,86,PG,Arizona St.,So.,2014
+68,KendallWilliams,0,PG,New Mexico,Sr.,2014
+69,RoyDevyn,85,SG,Iowa,Sr.,2014
+70,KeithAppling,85,PG/SG,Michigan St.,Sr.,2014
+71,XavierThames,84,PG/SG,San Diego St.,Sr.,2014
+72,CristianoFelicio,0,PF/C,Flamengo,1992,2014
+73,JordanBachynski,86,C,Arizona St.,Sr.,2014
+74,CaseyPrather,0,SG,Florida,Sr.,2014
+75,AxelToupane,0,SG/SF,Strasbourg,1992,2014
+76,OndrejBalvin,0,C,Cajasol Sevilla,1992,2014
+77,LaQuintonRoss,84,SF,Ohio St.,Jr.,2014
+78,JustinCobbs,0,PG,California,Sr.,2014
+79,RussSmith,85,PG/SG,Louisville,Sr.,2014
+80,EricMoreland,0,PF/C,Oregon St.,Jr.,2014
+81,AkilMitchell,86,PF,Virginia,Sr.,2014
+82,JordanMcRae,85,SG,Tennessee,Sr.,2014
+83,GeronJohnson,0,SG,Memphis,Sr.,2014
+84,LamarPatterson,85,SG/SF,Pittsburgh,Sr.,2014
+85,MelvinEjim,83,SF/PF,Iowa St.,Sr.,2014
+86,JerrelleBenimon,0,PF,Towson,Sr.,2014
+87,RoscoeSmith,85,PF,UNLV,Jr.,2014
+88,BrendanLane,0,PF,Pepperdine,Sr.,2014
+89,RichardSolomon,0,PF/C,California,Sr.,2014
+90,ScottieWilbekin,0,PG,Florida,Sr.,2014
+91,CameronClark,0,SF,Oklahoma,Sr.,2014
+92,TalibZanna,0,PF,Pittsburgh,Sr.,2014
+93,DevinOliver,0,SF,Dayton,Sr.,2014
+94,SimBhullar,0,C,New Mexico St.,So.,2014
+95,JoeJackson,86,PG,Memphis,Sr.,2014
+96,RobertoNelson,0,PG/SG,Oregon St.,Sr.,2014
+97,AaronCraft,84,PG,Ohio St.,Sr.,2014
+98,BryceCotton,0,PG,Providence,Sr.,2014
+99,AlexKirk,84,C,New Mexico,Jr.,2014
+100,JamilWilson,0,SF,Marquette,Sr.,2014
+1,Karl-AnthonyTowns,98,C,Kentucky,Fr.,2015
+2,EmmanuelMudiay,99,PG,Guangdong,1996,2015
+3,D'AngeloRussell,98,PG/SG,Ohio St.,Fr.,2015
+4,JahlilOkafor,98,C,Duke,Fr.,2015
+5,MarioHezonja,94,SG/SF,FC Barcelona,1995,2015
+6,JustiseWinslow,97,SG/SF,Duke,Fr.,2015
+7,KristapsPorzingis,96,PF,Cajasol Sevilla,1995,2015
+8,StanleyJohnson,97,SF,Arizona,Fr.,2015
+9,TreyLyles,95,PF,Kentucky,Fr.,2015
+10,CameronPayne,93,PG,Murray St.,So.,2015
+11,MylesTurner,94,C,Texas,Fr.,2015
+12,DevinBooker,92,SG,Kentucky,Fr.,2015
+13,SamDekker,94,SF,Wisconsin,Jr.,2015
+14,WillieCauley-Stein,92,C,Kentucky,Jr.,2015
+15,BobbyPortis,91,PF,Arkansas,So.,2015
+16,KellyOubre,93,SF,Kansas,Fr.,2015
+17,TerryRozier,92,PG,Louisville,So.,2015
+18,MontrezlHarrell,92,PF,Louisville,Jr.,2015
+19,RashadVaughn,91,SG,UNLV,Fr.,2015
+20,JerianGrant,93,PG,Notre Dame,Sr.,2015
+21,JustinAnderson,92,SG/SF,Virginia,Jr.,2015
+22,FrankKaminsky,91,C,Wisconsin,Sr.,2015
+23,DelonWright,93,PG/SG,Utah,Sr.,2015
+24,KevonLooney,92,PF,UCLA,Fr.,2015
+25,ChrisMcCullough,92,PF,Syracuse,Fr.,2015
+26,RondaeHollis-Jefferson,90,SF,Arizona,So.,2015
+27,NormanPowell,91,SG,UCLA,Sr.,2015
+28,TyusJones,91,PG,Duke,Fr.,2015
+29,JordanMickey,90,PF,LSU,So.,2015
+30,RakeemChristmas,91,PF/C,Syracuse,Sr.,2015
+31,GuillermoHernangomez,90,PF/C,Cajasol Sevilla,1994,2015
+32,RichaunHolmes,91,PF,Bowling Green,Sr.,2015
+33,RJHunter,89,SG,Georgia St.,Jr.,2015
+34,OlivierHanlan,89,PG/SG,Boston College,Jr.,2015
+35,JarellMartin,89,PF,LSU,So.,2015
+36,CediOsman,91,SF,Anadolu Efes,1995,2015
+37,CliffAlexander,89,PF/C,Kansas,Fr.,2015
+38,ChristianWood,90,PF,UNLV,So.,2015
+39,TerranPetteway,90,SF,Nebraska,Jr.,2015
+40,JonathanHolmes,89,PF,Texas,Sr.,2015
+41,DakariJohnson,89,C,Kentucky,So.,2015
+42,LuisMontero,89,SG/SF,JUCO,So.,2015
+43,NikolaMilutinov,85,PF/C,KK Partizan,1994,2015
+44,JosephYoung,88,PG/SG,Oregon,Sr.,2015
+45,AnthonyBrown,87,SG/SF,Stanford,Sr.,2015
+46,TravisTrice,89,PG,Michigan St.,Sr.,2015
+47,JPTokoto,89,SG/SF,North Carolina,Jr.,2015
+48,BrandonAshley,87,PF,Arizona,Jr.,2015
+49,JoshRichardson,87,SG,Tennessee,Sr.,2015
+50,MouhammadouJaiteh,85,C,Nanterre,1994,2015
+51,AndrewHarrison,89,PG/SG,Kentucky,So.,2015
+52,VinceHunter,0,SF/PF,UTEP,So.,2015
+53,PatConnaughton,88,SG,Notre Dame,Sr.,2015
+54,BrandenDawson,71,SF/PF,Michigan St.,Sr.,2015
+55,AaronWhite,85,SF/PF,Iowa,Sr.,2015
+56,ArturasGudaitis,88,C,Zalgiris Kaunas,1993,2015
+57,MichaelFrazier,0,SG,Florida,Jr.,2015
+58,ChassonRandle,86,PG/SG,Stanford,Sr.,2015
+59,LarryNance,87,PF,Wyoming,Sr.,2015
+60,RobertUpshaw,86,C,Washington,So.,2015
+61,BryceDejean-Jones,0,SG,Iowa St.,Sr.,2015
+62,RyanBoatright,89,PG,UConn,Sr.,2015
+63,JuwanStaten,89,PG,West Virginia,Sr.,2015
+64,TreveonGraham,0,SG,VCU,Sr.,2015
+65,LukaMitrovic,72,SF/PF,Crvena Zvezda,1993,2015
+66,KevinPangos,0,PG,Gonzaga,Sr.,2015
+67,JarvisWilliams,86,PF,Murray St.,Sr.,2015
+68,LeBryanNash,84,SF/PF,Oklahoma State,Sr.,2015
+69,MichaelQualls,89,SF,Arkansas,Jr.,2015
+70,AaronHarrison,87,SG,Kentucky,So.,2015
+71,TashawnThomas,86,PF,Oklahoma,Sr.,2015
+72,TylerHarvey,86,SG,Eastern Washington,Jr.,2015
+73,TJMcConnell,0,PG,Arizona,Sr.,2015
+74,DanielDiez,71,SF/PF,Gipuzkoa Basket,1993,2015
+75,DezWells,88,SG,Maryland,Sr.,2015
+76,ChrisWalker,84,PF,Florida,So.,2015
+77,KeiferSykes,0,PG,Wisconsin Green Bay,Sr.,2015
+78,WillCummings,0,PG,Temple,Sr.,2015
+79,Sir'DominicPointer,0,SF,St. Johns,Sr.,2015
+80,QuinnCook,86,PG,Duke,Sr.,2015
+81,AlanWilliams,86,PF/C,UC Santa Barbara,Sr.,2015
+82,D'AngeloHarrison,0,SG,St. Johns,Sr.,2015
+83,AdinVrabac,0,SF,KK Partizan,1994,2015
+84,CoreyHawkins,0,SG,UC Davis,Sr.,2015
+85,KevinDinal,0,PF,Souffel,1993,2015
+86,ShawnDawson,83,SG/SF,Maccabi Rishon Lezion,1993,2015
+87,DarrunHilliard,0,SG,Villanova,Sr.,2015
+88,CadyLalanne,0,C,Massachusetts,Sr.,2015
+89,DJNewbill,0,SG,Penn State,Sr.,2015
+90,RalstonTurner,0,SG,NC State,Sr.,2015
+91,MarcusThornton,85,PG/SG,William & Mary,Sr.,2015
+92,TrevorLacey,78,PG/SG,NC State,Jr.,2015
+93,MarcusEriksson,84,SG,FC Barcelona,1993,2015
+94,AskiaBooker,0,PG,Colorado,Sr.,2015
+95,DerrickMarks,0,PG/SG,Boise State,Sr.,2015
+96,DavidKravish,0,PF,California,Sr.,2015
+97,JuanVaulet,85,SG/SF,Bahia Basket,1996,2015
+98,LaDontaeHenton,85,SF,Providence,Sr.,2015
+99,DarionAtkins,0,PF,Virginia,Sr.,2015
+100,NikolaRadicevic,0,PG/SG,Cajasol Sevilla,1994,2015
+1,BenSimmons,100,SF/PF,LSU,Fr.,2016
+2,BrandonIngram,99,SF,Duke,Fr.,2016
+3,JaylenBrown,97,SG/SF,California,Fr.,2016
+4,KrisDunn,96,PG,Providence,Jr.,2016
+5,BuddyHield,95,SG,Oklahoma,Sr.,2016
+6,DraganBender,95,PF,Maccabi Tel Aviv,1997,2016
+7,MarqueseChriss,93,PF,Washington,Fr.,2016
+8,DomantasSabonis,94,PF/C,Gonzaga,So.,2016
+9,FurkanKorkmaz,93,SG,Anadolu Efes,1997,2016
+10,JamalMurray,93,PG/SG,Kentucky,Fr.,2016
+11,DejounteMurray,93,PG/SG,Washington,Fr.,2016
+12,MalikBeasley,92,SG,Florida St.,Fr.,2016
+13,DeyontaDavis,92,PF/C,Michigan St.,Fr.,2016
+14,SkalLabissiere,92,PF/C,Kentucky,Fr.,2016
+15,DamianJones,92,C,Vanderbilt,Jr.,2016
+16,BriceJohnson,92,PF,North Carolina,Sr.,2016
+17,JakobPoeltl,95,C,Utah,So.,2016
+18,HenryEllenson,91,PF/C,Marquette,Fr.,2016
+19,MalachiRichardson,92,SG,Syracuse,Fr.,2016
+20,DenzelValentine,91,SG/SF,Michigan St.,Sr.,2016
+21,IvicaZubac,93,C,Mega Leks,1997,2016
+22,CarisLeVert,90,SG,Michigan,Sr.,2016
+23,PatrickMcCaw,91,SG,UNLV,So.,2016
+24,GuerschonYabusele,91,PF,SPO Rouen,1995,2016
+25,CheickDiallo,91,PF/C,Kansas,Fr.,2016
+26,ThonMaker,90,PF/C,Australia,HSSr.,2016
+27,TaureanPrince,90,SF,Baylor,Sr.,2016
+28,JuanHernangomez,90,PF,Asefa Estudiantes,1995,2016
+29,StephenZimmerman,91,PF/C,UNLV,Fr.,2016
+30,DeAndreBembry,90,SG/SF,St. Joseph's,Jr.,2016
+31,AnteZizic,90,C,Cibona Zagreb,1997,2016
+32,TimotheLuwawu,90,SG/SF,Mega Leks,1995,2016
+33,WadeBaldwin,89,PG/SG,Vanderbilt,So.,2016
+34,MalcolmBrogdon,89,SG,Virginia,Sr.,2016
+35,GaryPayton,90,PG/SG,Oregon St.,Sr.,2016
+36,PascalSiakam,90,PF,New Mexico St.,So.,2016
+37,DiamondStone,89,C,Maryland,Fr.,2016
+38,DemetriusJackson,89,PG,Notre Dame,Jr.,2016
+39,AnthonyBarber,90,PG,NC State,Jr.,2016
+40,JoelBolomboy,90,PF,Weber St.,Sr.,2016
+41,MichaelGbinije,92,SG/SF,Syracuse,Sr.,2016
+42,KahlilFelder,87,PG,Oakland,Jr.,2016
+43,IsaiahWhitehead,89,PG/SG,Seton Hall,So.,2016
+44,DanielHamilton,88,SG/SF,UConn,So.,2016
+45,TylerUlis,89,PG,Kentucky,So.,2016
+46,IsaiahCousins,89,PG/SG,Oklahoma,Sr.,2016
+47,BenBentil,89,PF,Providence,So.,2016
+48,WayneSelden,90,SG,Kansas,Jr.,2016
+49,GeorgiosPapagiannis,89,C,Panathinaikos,1997,2016
+50,ZhouQi,86,PF/C,Xinjiang,1996,2016
+51,AJHammons,90,C,Purdue,Sr.,2016
+52,PerryEllis,88,PF,Kansas,Sr.,2016
+53,ZachAuguste,89,PF,Notre Dame,Sr.,2016
+54,DanuelHouse,86,SG/SF,Texas A&M,Sr.,2016
+55,TroyWilliams,86,SF,Indiana,Jr.,2016
+56,RonBaker,91,SG,Wichita State,Sr.,2016
+57,JamesWebb,0,SF/PF,Boise State,Jr.,2016
+58,IsaiaCordinier,85,SG,Denain,1996,2016
+59,TyroneWallace,90,PG/SG,California,Sr.,2016
+60,JulianJacobs,0,PG/SG,USC,Jr.,2016
+61,PetrCornelie,85,PF/C,Le Mans,1995,2016
+62,RadeZagorac,88,SG/SF,Mega Vizura,1995,2016
+63,DerrickJones,85,SF,UNLV,Fr.,2016
+64,IsaiahMiles,73,SF/PF,St. Joseph's,Sr.,2016
+65,DorianFinney-Smith,86,SF/PF,Florida,Sr.,2016
+66,ChrisObekpa,0,C,UNLV,Sr.,2016
+67,GracinBakumanya,86,C,,1997,2016
+68,MarcusPaige,88,PG,North Carolina,Sr.,2016
+69,KyleWiltjer,84,PF,Gonzaga,Sr.,2016
+70,IsaiahTaylor,91,PG,Texas,Jr.,2016
+71,RobertCarter,85,PF,Maryland,Jr.,2016
+72,SheldonMcClellan,86,SG,Miami,Sr.,2016
+73,AlexPoythress,0,PF,Kentucky,Sr.,2016
+74,JakeLayman,87,SF,Maryland,Sr.,2016
+75,JarrodUthoff,87,PF,Iowa,Sr.,2016
+76,DamionLee,85,SG,Louisville,Sr.,2016
+77,JoshAdams,0,PG,Wyoming,Sr.,2016
+78,GeorgesNiang,72,SF/PF,Iowa St.,Sr.,2016
+79,PaulZipser,86,SF,Bayern Munich,1994,2016
+80,YogiFerrell,85,PG,Indiana,Sr.,2016
+81,KalebTarczewski,0,C,Arizona,Sr.,2016
+82,DavidMichineau,88,PG,Chalon,1994,2016
+83,TimQuarterman,0,SG,LSU,Jr.,2016
+84,RoscoAllen,0,SF,Stanford,Jr.,2016
+85,AJEnglish,0,PG/SG,Iona,Sr.,2016
+86,OriolPauli,0,SG,Gran Canaria,1994,2016
+87,DevinThomas,0,PF,Wake Forest,Sr.,2016
+88,RyanAnderson,0,PF,Arizona,Sr.,2016
+89,ChinanuOnuaku,85,C,Louisville,So.,2016
+90,AnthonyGill,0,PF,Virginia,Sr.,2016
+91,ShawnLong,0,PF,Louisiana Lafayette,Sr.,2016
+92,JalenJones,0,SF,Texas A&M,Sr.,2016
+93,TylerHarris,80,PF,Auburn,Sr.,2016
+94,AndrewAndrews,0,SG,Washington,Sr.,2016
+95,PrinceIbeh,85,C,Texas,Sr.,2016
+96,StefanJankovic,0,PF,Hawaii,Jr.,2016
+97,BrannenGreene,0,SG/SF,Kansas,Jr.,2016
+98,D'VauntesSmith-Rivera,0,PG/SG,Georgetown,Sr.,2016
+99,GoodluckOkonoboh,0,C,UNLV,So.,2016
+100,EmmanuelMalou,0,SF/PF,JUCO,So.,2016

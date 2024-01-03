@@ -1,0 +1,694 @@
+,index,pm,name,score,height,weight,position,school,year
+0,2,1.0,EvanTurner,97,6-7,214,SG,Ohio St.,Jr.
+1,3,1.0,DerrickFavors,98,6-10,245,PF,Georgia Tech,Fr.
+2,4,1.0,WesleyJohnson,97,6-7,206,SF,Syracuse,Jr.
+3,5,1.0,GregMonroe,96,6-11,247,PF/C,Georgetown,So.
+4,6,1.0,PatrickPatterson,96,6-9,240,PF,Kentucky,Jr.
+5,7,1.0,DeMarcusCousins,94,6-11,292,PF/C,Kentucky,Fr.
+6,8,1.0,LukeBabbitt,94,6-9,218,SF/PF,Nevada,So.
+7,9,4.0,Al-FarouqAminu,96,6-8,216,SF,Wake Forest,So.
+8,10,2.0,PaulGeorge,95,6-9,214,SF,Fresno St.,So.
+9,11,,EdDavis,94,6-10,227,PF,North Carolina,So.
+10,12,2.0,XavierHenry,93,6-6,210,SG,Kansas,Fr.
+11,13,2.0,AveryBradley,93,6-3,180,SG,Texas,Fr.
+12,14,4.0,HassanWhiteside,94,7-0,227,C,Marshall,Fr.
+13,15,1.0,ColeAldrich,93,6-10,236,C,Kansas,Jr.
+14,16,1.0,GordonHayward,92,6-8,211,SF,Butler,So.
+15,17,-7.0,EkpeUdoh,92,6-10,237,PF,Baylor,Jr.
+16,18,1.0,DevinEbanks,93,6-8,208,SF,West Virginia,So.
+17,19,1.0,JamesAnderson,92,6-6,208,SG,Oklahoma State,Jr.
+18,20,1.0,DanielOrton,92,6-10,269,PF/C,Kentucky,Fr.
+19,21,1.0,ElliotWilliams,94,6-4,180,SG,Memphis,So.
+20,22,2.0,ArmonJohnson,91,6-3,190,PG/SG,Nevada,Jr.
+21,23,2.0,CraigBrackins,92,6-10,229,PF,Iowa St.,Jr.
+22,24,2.0,GaniLawal,91,6-9,233,PF,Georgia Tech,Jr.
+23,25,2.0,DominiqueJones,92,6-4,216,SG,South Florida,Jr.
+24,26,-3.0,TerricoWhite,92,6-5,203,PG/SG,Mississippi,So.
+25,27,1.0,EricBledsoe,90,6-1,192,PG/SG,Kentucky,Fr.
+26,28,1.0,LarrySanders,92,6-10,222,PF/C,VCU,Jr.
+27,29,1.0,DamionJames,92,6-7,227,SF,Texas,Sr.
+28,30,1.0,StanleyRobinson,92,6-8,213,SF,UConn,Sr.
+29,31,1.0,KevinSeraphin,90,6-9,263,PF/C,Cholet,1989
+30,32,1.0,WillieWarren,89,6-4,208,PG/SG,Oklahoma,So.
+31,33,1.0,LanceStephenson,91,6-6,227,SG,Cincinnati,Fr.
+32,34,1.0,NemanjaBjelica,92,6-10,223,SF,Red Star,1988
+33,35,1.0,QuincyPondexter,90,6-7,215,SF,Washington,Sr.
+34,36,1.0,JordanCrawford,89,6-4,198,SG,Xavier,So.
+35,37,1.0,TrevorBooker,90,6-7,236,PF,Clemson,Sr.
+36,38,1.0,DwayneCollins,88,6-8,241,PF,Miami,Sr.
+37,39,1.0,LazarHayward,90,6-6,226,SF,Marquette,Sr.
+38,40,1.0,TinyGallon,90,6-9,296,PF,Oklahoma,Fr.
+39,41,1.0,JeromeJordan,90,7-1,244,C,Tulsa,Sr.
+40,42,1.0,SolomonAlabi,89,7-1,237,C,Florida St.,So.
+41,43,1.0,Da'SeanButler,91,6-7,225,SF,West Virginia,Sr.
+42,44,1.0,TiborPleiss,90,7-1,235,C,Brose Baskets,1989
+43,45,1.0,GreivisVasquez,91,6-6,211,PG/SG,Maryland,Sr.
+44,46,10.0,MannyHarris,89,6-5,185,SG,Michigan,Jr.
+45,47,1.0,MikhailTorrance,89,6-5,209,PG/SG,Alabama,Sr.
+46,48,1.0,MacKoshwal,89,6-9,250,PF,DePaul,Jr.
+47,49,-2.0,JarvisVarnado,88,6-9,210,PF,Mississippi St.,Sr.
+48,50,,LataviousWilliams,88,6-8,205,PF,Tulsa 66ers (D-League),1989
+49,51,,ArtParakhouski,89,6-11,268,C,Radford,Sr.
+50,52,,MattBouldin,86,6-5,214,PG/SG,Gonzaga,Sr.
+51,53,,SamardoSamuels,89,6-8,245,PF,Louisville,So.
+52,54,,DaringtonHobson,89,6-6,204,SF,New Mexico,Jr.
+53,55,,DenisClemente,88,6-0,175,PG,Kansas State,Sr.
+54,56,1.0,MarquisGilstrap,87,6-7,215,SF,Iowa St.,Sr.
+55,57,1.0,HamadyNdiaye,87,7-0,240,C,Rutgers,Sr.
+56,58,1.0,CharlesGarcia,82,6-9,232,SF/PF,Seattle,Jr.
+57,59,1.0,LandonMilbourne,88,6-7,207,SF,Maryland,Sr.
+58,60,1.0,LukeHarangody,72,6-7,240,SF/PF,Notre Dame,Sr.
+59,61,1.0,SherronCollins,88,5-11,217,PG,Kansas,Sr.
+60,62,1.0,AlexeyShved,91,6-6,178,PG/SG,Dynamo Moscow,1988
+61,63,14.0,AndyRautins,86,6-5,192,SG,Syracuse,Sr.
+62,64,,AJOgilvy,87,6-10,250,C,Vanderbilt,Jr.
+63,65,,MiroslavRaduljica,87,6-11,240,C,FMP Zeleznik,1988
+64,66,,DexterPittman,86,6-11,303,C,Texas,Sr.
+65,67,,MichaelWashington,87,6-10,239,PF,Arkansas,Sr.
+66,68,,PauloPrestes,86,6-10,275,PF/C,CB Murcia,1988
+67,69,,RyanRichards,87,7-0,230,PF/C,Gran Canaria,1991
+68,70,32.0,ThomasHeurtel,86,6-2,180,PG,Strasbourg,1989
+69,71,-1.0,DerrickCaracter,87,6-9,280,PF,UTEP,Jr.
+70,72,-1.0,JeromeDyson,88,6-3,180,SG,UConn,Sr.
+71,73,-1.0,KevinPalmer,88,6-6,205,SF,Texas A&M Corpus Christi,Sr.
+72,74,-1.0,TylerSmith,89,6-6,212,SF,Bornova (Turkey),1986
+73,75,-1.0,MagnumRolle,87,6-10,220,SF/PF,Louisiana Tech,Sr.
+74,76,-1.0,JPPrince,86,6-7,205,SG,Tennessee,Sr.
+75,77,-1.0,TheoRobertson,85,6-6,220,SG/SF,California,Sr.
+76,78,1.0,BenUzoh,87,6-3,200,PG/SG,Tulsa,Sr.
+77,79,1.0,RyanThompson,86,6-6,210,SG/SF,Rider,Sr.
+78,80,1.0,TimOhlbrecht,88,6-11,235,PF,Telekom Baskets Bonn,1988
+79,81,1.0,DeonThompson,86,6-8,240,PF,North Carolina,Sr.
+80,82,1.0,TommyMason-Griffin,85,5-10,203,PG,Oklahoma,Fr.
+81,83,1.0,JonScheyer,87,6-6,180,PG/SG,Duke,Sr.
+82,84,1.0,EdwinUbiles,86,6-6,198,SG,Siena,Sr.
+83,85,1.0,TyrenJohnson,86,6-8,204,SF,Louisiana Lafayette,Sr.
+84,86,1.0,DeShawnSims,72,6-8,230,SF/PF,Michigan,Sr.
+85,87,1.0,SylvenLandesberg,0,6-6,210,SG,Virginia,So.
+86,88,1.0,WayneChism,87,6-8,246,PF,Tennessee,Sr.
+87,89,1.0,MarqusBlakely,87,6-5,225,SF,Vermont,Sr.
+88,90,1.0,JeromeRandle,86,5-10,165,PG,California,Sr.
+89,91,1.0,RaymarMorgan,85,6-7,210,SF,Michigan St.,Sr.
+90,92,1.0,AubreyColeman,87,6-3,210,SG,Houston,Sr.
+91,93,1.0,LandryFields,86,6-7,210,SF,Stanford,Sr.
+92,94,1.0,MarcusJohnson,85,6-6,210,SG,USC,Sr.
+93,95,1.0,OmarSamhan,85,6-10,265,C,St. Mary's,Sr.
+94,96,1.0,DominiqueArchie,0,6-7,200,SF,South Carolina,Sr.
+95,97,1.0,BobanMarjanovic,90,7-3,293,C,Hemofarm,1988
+96,98,1.0,VladimirDasic,85,6-10,226,SF,Real Madrid,1988
+97,99,1.0,PatrickChristopher,88,6-5,210,SG/SF,California,Sr.
+98,100,1.0,ScottieReynolds,85,6-1,185,PG,Villanova,Sr.
+99,2,2.0,EnesKanter,98,6-11,259,PF/C,Kentucky,Fr.
+100,3,,KyrieIrving,97,6-3,191,PG,Duke,Fr.
+101,4,1.0,BrandonKnight,96,6-3,177,PG/SG,Kentucky,Fr.
+102,5,2.0,DonatasMotiejunas,96,7-0,224,PF,Benetton Treviso,1990
+103,6,5.0,JanVesely,95,6-11,230,SF/PF,Partizan Belgrade,1990
+104,7,5.0,JonasValanciunas,93,6-11,240,C,Lietuvos Rytas,1992
+105,8,2.0,JimmerFredette,93,6-2,196,PG,,Sr.
+106,9,6.0,TristanThompson,92,6-9,227,PF,Texas,Fr.
+107,10,-4.0,AlecBurks,95,6-6,193,PG/SG,Colorado,So.
+108,11,8.0,KlayThompson,93,6-7,206,SG/SF,Washington State,Jr.
+109,12,-3.0,KembaWalker,95,6-1,184,PG,UConn,Jr.
+110,13,-5.0,KawhiLeonard,93,6-7,227,SF,San Diego St.,So.
+111,14,-1.0,MarcusMorris,78,6-8,230,SF/PF,Kansas,Jr.
+112,15,-1.0,MarkieffMorris,94,6-9,241,PF,Kansas,Jr.
+113,16,4.0,JordanHamilton,91,6-8,228,SG/SF,Texas,So.
+114,17,-1.0,TobiasHarris,78,6-8,223,SF/PF,Tennessee,Fr.
+115,18,-1.0,TylerHoneycutt,93,6-8,187,SG/SF,UCLA,So.
+116,19,-1.0,ChrisSingleton,78,6-9,230,SF/PF,Florida St.,Jr.
+117,20,2.0,MarshonBrooks,92,6-5,195,SG,Providence,Sr.
+118,21,4.0,TreyThompkins,92,6-10,239,PF,Georgia,Jr.
+119,22,6.0,KennethFaried,92,6-7,225,PF,Morehead St.,Sr.
+120,23,,DariusMorris,92,6-4,190,PG,Michigan,So.
+121,24,,BismackBiyombo,89,6-9,243,C,Fuenlabrada,1992
+122,25,7.0,JaJuanJohnson,90,6-10,220,PF,Purdue,Sr.
+123,26,1.0,JustinHarper,91,6-9,228,PF,Richmond,Sr.
+124,27,-6.0,DavisBertans,92,6-10,211,SF,Union Olimpija,1992
+125,28,11.0,NikolaVucevic,90,6-11,260,C,USC,Jr.
+126,29,4.0,NorrisCole,91,6-1,174,PG,Cleveland St.,Sr.
+127,30,-4.0,KyleSingler,90,6-9,228,SF,Duke,Sr.
+128,31,,JeremyTyler,90,6-10,262,PF/C,Tokyo Apache,1991
+129,32,14.0,NikolaMirotic,82,6-10,225,SF/PF,Real Madrid,1991
+130,33,-4.0,ShelvinMack,88,6-2,205,PG/SG,Butler,Jr.
+131,34,3.0,NolanSmith,90,6-3,189,PG/SG,Duke,Sr.
+132,35,5.0,ReggieJackson,89,6-3,200,PG/SG,Boston College,Jr.
+133,36,,ChandlerParsons,89,6-10,221,SF,Florida,Sr.
+134,37,21.0,TravisLeslie,89,6-4,205,SG/SF,Georgia,Jr.
+135,38,4.0,JonLeuer,90,6-11,223,PF,Wisconsin,Sr.
+136,39,-1.0,MalcolmLee,88,6-5,198,PG/SG,UCLA,Jr.
+137,40,-10.0,JoshSelby,90,6-3,195,PG/SG,Kansas,Fr.
+138,41,-7.0,JordanWilliams,91,6-9,247,PF,Maryland,So.
+139,42,-1.0,CoryJoseph,89,6-3,186,PG,Texas,Fr.
+140,43,10.0,ImanShumpert,89,6-5,222,PG/SG,Georgia Tech,Jr.
+141,44,,AndrewGoudelock,88,6-2,198,PG/SG,Charleston,Sr.
+142,45,6.0,KeithBenson,88,6-11,217,C,Oakland,Sr.
+143,46,16.0,CharlesJenkins,88,6-3,216,PG/SG,Hofstra,Sr.
+144,47,21.0,MatthewBryan-Amaning,88,6-10,232,PF,Washington,Sr.
+145,48,26.0,BojanBogdanovic,86,6-7,195,SG/SF,Fenerbahe Ulke,1989
+146,49,51.0,XaviRabaseda,86,6-7,190,SG,Regal FC Barcelona,1989
+147,50,21.0,JimmyButler,88,6-7,222,SF,Marquette,Sr.
+148,51,1.0,MalcolmThomas,85,6-9,223,PF,San Diego St.,Sr.
+149,52,-7.0,WillieReed,88,6-9,220,PF,St. Louis,Jr.
+150,53,-3.0,RavernJohnson,89,6-6,170,SG/SF,Mississippi St.,Sr.
+151,54,9.0,JulyanStone,87,6-6,200,PG,UTEP,Sr.
+152,55,,RickJackson,88,6-9,242,PF,Syracuse,Sr.
+153,56,46.0,DeAndreLiggins,88,6-6,202,SG,Kentucky,Jr.
+154,57,2.0,GregSmith,87,6-9,253,PF/C,Fresno St.,So.
+155,58,-11.0,JeremeRichmond,86,6-7,207,SF,Illinois,Fr.
+156,59,-11.0,E'twaunMoore,87,6-4,191,PG/SG,Purdue,Sr.
+157,60,-4.0,DavidLighty,89,6-6,216,SG,Ohio St.,Sr.
+158,61,,CamLong,87,6-4,192,SG,George Mason,Sr.
+159,62,2.0,JustinHurtt,88,6-4,195,SG,Tulsa,Sr.
+160,63,-3.0,LaceDariusDunn,89,6-4,188,SG,Baylor,Sr.
+161,64,38.0,DeAngeloCasto,87,6-8,255,PF,Washington State,Jr.
+162,65,4.0,JamieSkeen,86,6-8,242,PF,VCU,Sr.
+163,66,-17.0,GaryFlowers,89,6-8,214,SF,Southern Miss.,Sr.
+164,67,18.0,DianteGarrett,86,6-5,181,PG,Iowa St.,Sr.
+165,68,34.0,VernonMacklin,86,6-10,244,PF,Florida,Sr.
+166,69,10.0,JaminePeterson,84,6-6,235,PF,New Mexico Thunderbirds,1988
+167,70,25.0,XavierSilas,0,6-4,200,SG,Northern Illinois,Sr.
+168,71,-6.0,ChrisWright,87,6-8,217,SF/PF,Dayton,Sr.
+169,72,4.0,JonDiebler,86,6-6,197,SG,Ohio St.,Sr.
+170,73,-3.0,MikeDavis,81,6-9,213,SF/PF,Illinois,Sr.
+171,74,-8.0,DemetriMcCamey,88,6-3,204,PG,Illinois,Sr.
+172,75,-8.0,BradWanamaker,86,6-4,208,PG/SG,Pittsburgh,Sr.
+173,76,22.0,JohnHolland,0,6-5,210,SG,Boston University,Sr.
+174,77,-20.0,ScottyHopson,87,6-7,205,SG/SF,Tennessee,Jr.
+175,78,-6.0,JustinBrownlee,88,6-7,219,SF,St. Johns,Sr.
+176,79,23.0,DogusBalbay,85,6-1,180,PG,Texas,Sr.
+177,80,-7.0,MichaelDunigan,0,6-10,238,PF,Hapoel Migdal Jerusalem,1989
+178,81,1.0,AustinFreeman,86,6-4,225,SG,Georgetown,Sr.
+179,82,-2.0,JeffAllen,70,6-6,227,SF/PF,Virginia Tech,Sr.
+180,83,3.0,DelroyJames,0,6-7,225,SF,Rhode Island,Sr.
+181,84,-7.0,ChaissonAllen,88,6-5,193,PG/SG,Northeastern,Sr.
+182,85,-7.0,BenHansbrough,85,6-3,203,PG/SG,Notre Dame,Sr.
+183,86,3.0,CoreyFisher,88,6-0,202,PG,Villanova,Sr.
+184,87,6.0,RandyCulpepper,85,6-0,160,PG,UTEP,Sr.
+185,88,3.0,LavoyAllen,0,6-9,225,PF,Temple,Sr.
+186,89,5.0,TerrenceJennings,0,6-10,225,PF,Louisville,Jr.
+187,90,-9.0,PabloAguilar,75,6-9,200,SF/PF,CB Granada,1989
+188,91,8.0,GilbertBrown,0,6-6,213,SG,Pittsburgh,Sr.
+189,92,-9.0,StevenGray,86,6-4,210,SG,Gonzaga,Sr.
+190,93,4.0,CoryHiggins,0,6-4,180,PG/SG,Colorado,Sr.
+191,94,-6.0,JacobPullen,86,6-0,194,PG/SG,Kansas State,Sr.
+192,95,-8.0,SamMuldrow,0,6-9,213,PF,South Carolina,Sr.
+193,96,6.0,AlexTyus,0,6-8,207,SF/PF,Florida,Sr.
+194,97,5.0,JeremyHazell,0,6-5,185,SG,Seton Hall,Sr.
+195,98,3.0,ClarenceJackson,0,6-4,188,SG,Siena,Sr.
+196,99,3.0,FerrakohnHall,0,6-8,225,SF/PF,Memphis,Sr.
+197,100,2.0,MarkPayne,86,6-7,206,PG/SG,UC Davis,Sr.
+198,2,1.0,AndreDrummond,99,6-11,279,PF/C,UConn,Fr.
+199,3,1.0,HarrisonBarnes,97,6-8,228,SF,North Carolina,So.
+200,4,2.0,BradleyBeal,94,6-4,202,SG,Florida,Fr.
+201,5,,JeremyLamb,97,6-5,179,SG,UConn,So.
+202,6,1.0,ThomasRobinson,97,6-9,244,PF,Kansas,Jr.
+203,7,2.0,DamianLillard,96,6-3,189,PG,Weber St.,Jr.
+204,8,,MichaelKidd-Gilchrist,96,6-7,233,SF,Kentucky,Fr.
+205,9,1.0,TerrenceRoss,96,6-7,197,SG/SF,Washington,So.
+206,10,2.0,AustinRivers,94,6-5,203,SG,Duke,Fr.
+207,11,2.0,MeyersLeonard,95,7-1,250,C,Illinois,So.
+208,12,5.0,TylerZeller,93,7-0,247,PF/C,North Carolina,Sr.
+209,13,2.0,KendallMarshall,93,6-4,197,PG,North Carolina,So.
+210,14,-3.0,MoeHarkless,94,6-8,207,SF,St. Johns,Fr.
+211,15,9.0,AndrewNicholson,93,6-10,234,PF,St. Bonaventure,Sr.
+212,16,-2.0,ArnettMoultrie,94,6-11,233,PF,Mississippi St.,Jr.
+213,17,-1.0,DionWaiters,93,6-4,215,SG,Syracuse,So.
+214,18,,PerryJones,94,6-11,234,SF/PF,Baylor,So.
+215,19,1.0,JaredSullinger,92,6-9,268,PF,Ohio St.,So.
+216,20,-1.0,JohnHenson,94,6-10,216,PF,North Carolina,Jr.
+217,21,1.0,TerrenceJones,93,6-9,252,SF/PF,Kentucky,So.
+218,22,3.0,MarquisTeague,93,6-2,189,PG,Kentucky,Fr.
+219,23,,RoyceWhite,94,6-8,261,SF,Iowa St.,So.
+220,24,3.0,JohnJenkins,92,6-4,212,SG,Vanderbilt,Jr.
+221,25,-4.0,DoronLamb,92,6-4,199,SG,Kentucky,So.
+222,26,3.0,QuincyMiller,89,6-10,219,SF,Baylor,Fr.
+223,27,4.0,WillBarton,89,6-6,174,SG/SF,Memphis,So.
+224,28,,KhrisMiddleton,90,6-8,216,SG/SF,Texas A&M,Jr.
+225,29,1.0,TonyWroten,92,6-6,203,PG/SG,Washington,Fr.
+226,30,-4.0,JefferyTaylor,92,6-7,213,SF,Vanderbilt,Sr.
+227,31,1.0,FabMelo,90,7-0,255,C,Syracuse,So.
+228,32,1.0,JaredCunningham,90,6-5,188,SG,Oregon St.,Jr.
+229,33,1.0,FestusEzeli,89,6-11,264,C,Vanderbilt,Sr.
+230,34,1.0,DraymondGreen,89,6-7,236,SF/PF,Michigan St.,Sr.
+231,35,1.0,EvanFournier,89,6-7,204,SG,Union Poitiers Basket 86,1992
+232,36,1.0,FurkanAldemir,89,6-10,230,PF,Galatasaray,1991
+233,37,10.0,DariusMiller,89,6-7,238,SF,Kentucky,Sr.
+234,38,1.0,KrisJoseph,89,6-7,215,SF,Syracuse,Sr.
+235,39,1.0,KevinMurphy,90,6-6,195,SG,Tennessee Tech,Sr.
+236,40,4.0,KimEnglish,88,6-6,192,SG,Missouri,Sr.
+237,41,-3.0,DrewGordon,90,6-9,239,PF,New Mexico,Sr.
+238,42,-1.0,KostasPapanikolaou,89,6-9,230,SF,Olympiacos,1990
+239,43,-1.0,MikeScott,89,6-8,237,PF,Virginia,Sr.
+240,44,6.0,DariusJohnson-Odom,87,6-3,212,SG,Marquette,Sr.
+241,45,,JaMychalGreen,89,6-9,217,PF,Alabama,Sr.
+242,46,-3.0,WilliamBuford,88,6-5,215,SG,Ohio St.,Sr.
+243,47,-1.0,HollisThompson,89,6-8,205,SG,Georgetown,Jr.
+244,48,,TomasSatoransky,89,6-7,201,PG/SG,Cajasol Sevilla,1991
+245,49,,TornikeShengelia,86,6-9,217,SF,Belgacom Spirou,1991
+246,50,2.0,KevinJones,90,6-7,251,PF,West Virginia,Sr.
+247,51,,QuincyAcy,86,6-8,224,PF,Baylor,Sr.
+248,52,1.0,RobertSacre,89,6-11,260,C,Gonzaga,Sr.
+249,53,8.0,ChrisJohnson,87,6-5,197,SG,Dayton,Sr.
+250,54,18.0,AlexYoung,91,6-6,216,SG/SF,IUPUI,Sr.
+251,55,,MaalikWayns,89,6-1,205,PG,Villanova,Jr.
+252,56,,HenrySims,0,6-11,251,C,Georgetown,Sr.
+253,57,,CameronMoore,88,6-10,223,PF,UAB,Sr.
+254,58,1.0,TerranceHenry,74,6-10,195,SF/PF,Mississippi,Sr.
+255,59,1.0,MilesPlumlee,86,7-0,252,PF/C,Duke,Sr.
+256,60,-2.0,JosepFranch,88,6-3,190,PG,UCAM Murcia,1991
+257,61,1.0,RamoneMoore,88,6-5,188,SG,Temple,Sr.
+258,62,1.0,JustinHamilton,88,7-0,260,C,LSU,Jr.
+259,63,-9.0,TyshawnTaylor,86,6-3,180,PG/SG,Kansas,Sr.
+260,64,3.0,ScottMachado,86,6-2,205,PG,Iona,Sr.
+261,65,1.0,KyleO'Quinn,0,6-10,241,PF,Norfolk St.,Sr.
+262,66,-2.0,TonyMitchell,88,6-6,220,SF,Alabama,Jr.
+263,67,7.0,OrlandoJohnson,0,6-5,224,SF,UC Santa Barbara,Sr.
+264,68,-3.0,BernardJames,87,6-10,230,PF,Florida St.,Sr.
+265,69,-1.0,MarcusDenmon,0,6-3,188,PG/SG,Missouri,Sr.
+266,70,,XavierGibson,86,6-11,266,PF,Florida St.,Sr.
+267,71,-2.0,HerbPope,0,6-8,261,PF,Seton Hall,Sr.
+268,72,-1.0,J'CovanBrown,86,6-2,202,PG/SG,Texas,Jr.
+269,73,,LeonRadosevic,87,6-10,235,PF,EA7 Milano,1990
+270,74,1.0,JaeCrowder,71,6-6,241,SF/PF,Marquette,Sr.
+271,75,1.0,ReggieHamilton,86,6-1,180,PG,Oakland,Sr.
+272,76,1.0,IlkanKaraman,87,6-10,236,PF,Galatasaray,1990
+273,77,1.0,RobbieHummel,87,6-8,218,SF,Purdue,Sr.
+274,78,1.0,DeeBost,0,6-2,180,PG,Mississippi St.,Sr.
+275,79,1.0,TuHolloway,86,6-0,187,PG,Xavier,Sr.
+276,80,1.0,MitchellWatt,87,6-9,221,PF,Buffalo,Sr.
+277,81,1.0,ChaceStanback,0,6-8,208,SG/SF,UNLV,Sr.
+278,82,1.0,YancyGates,88,6-9,289,PF/C,Cincinnati,Sr.
+279,83,1.0,RakimSanders,85,6-5,228,SF,Fairfield,Sr.
+280,84,1.0,GregMangano,87,6-10,231,PF/C,Yale,Sr.
+281,85,2.0,EliHolman,0,6-9,258,PF,Detroit,Sr.
+282,86,16.0,AlenOmic,0,7-0,230,C,Union Olimpija,1992
+283,87,2.0,RicardoRatliffe,0,6-8,244,PF,Missouri,Sr.
+284,88,2.0,BradfordBurgess,0,6-6,212,SG/SF,VCU,Sr.
+285,89,2.0,CarlonBrown,0,6-4,216,SG,Colorado,Sr.
+286,90,2.0,GarrettStutz,0,7-0,252,C,Wichita State,Sr.
+287,91,2.0,DionDixon,0,6-3,190,SG,Cincinnati,Sr.
+288,92,5.0,CasperWare,86,5-10,170,PG,Long Beach State,Sr.
+289,93,2.0,CharlieWestbrook,0,6-4,196,SG,USA,Sr.
+290,94,2.0,KennyFrease,0,6-11,265,C,Xavier,Sr.
+291,95,7.0,ZackRosen,0,6-1,170,PG,Pennsylvania,Sr.
+292,96,2.0,KentBazemore,0,6-5,201,SG,Old Dominion,Sr.
+293,97,2.0,LarryAnderson,0,6-5,211,SG/SF,Long Beach State,Sr.
+294,98,2.0,DarioHunt,0,6-8,230,PF,Nevada,Sr.
+295,99,2.0,KyleFogg,0,6-3,183,SG,Arizona,Sr.
+296,100,2.0,NickBarbour,0,6-3,175,SG,,Sr.
+297,2,2.0,CodyZeller,95,7-0,230,PF/C,Indiana,So.
+298,3,3.0,CJMcCollum,94,6-3,197,PG/SG,Lehigh,Sr.
+299,4,-1.0,AlexLen,96,7-1,255,C,Maryland,So.
+300,5,2.0,VictorOladipo,94,6-4,213,SG/SF,Indiana,Jr.
+301,6,-1.0,NerlensNoel,95,6-11,206,PF/C,Kentucky,Fr.
+302,7,1.0,OttoPorter,94,6-9,200,SF,Georgetown,So.
+303,8,1.0,AnthonyBennett,94,6-7,240,SF/PF,UNLV,Fr.
+304,9,4.0,LucasNogueira,94,7-0,220,PF/C,Estudiantes,1992
+305,10,1.0,DennisSchroder,93,6-2,168,PG,New Yorker Phantoms Braunschweig,1993
+306,11,-1.0,TreyBurke,93,6-1,190,PG,Michigan,So.
+307,12,,KentaviousCaldwell-Pope,93,6-6,205,SG,Georgia,So.
+308,13,1.0,StevenAdams,92,7-0,255,C,Pittsburgh,Fr.
+309,14,1.0,MichaelCarter-Williams,92,6-6,185,PG,Syracuse,So.
+310,15,1.0,GiannisAdetokoubo,92,6-10,205,SF,Filathlitikos,1994
+311,16,1.0,TimHardaway,92,6-6,200,SG,Michigan,Jr.
+312,17,1.0,ShabazzMuhammad,92,6-6,225,SF,UCLA,Fr.
+313,18,1.0,KellyOlynyk,92,7-0,234,C,Gonzaga,Jr.
+314,19,1.0,TonyMitchell,0,6-9,236,SF/PF,North Texas,So.
+315,20,1.0,TonySnell,92,6-7,198,SG/SF,New Mexico,Jr.
+316,21,1.0,NateWolters,91,6-5,196,PG,South Dakota St.,Sr.
+317,22,1.0,SergeyKarasev,91,6-7,197,SG/SF,BC Triumph,1993
+318,23,1.0,ShaneLarkin,0,5-11,171,PG,Miami,So.
+319,24,1.0,GorguiDieng,91,6-11,230,C,Louisville,Jr.
+320,25,1.0,MasonPlumlee,91,6-11,238,PF,Duke,Sr.
+321,26,5.0,LivioJean-Charles,75,6-9,217,SF/PF,ASVEL Villeubanne,1993
+322,27,1.0,AllenCrabbe,90,6-6,197,SG,California,Jr.
+323,28,7.0,ErickGreen,89,6-3,180,PG/SG,Virginia Tech,Sr.
+324,29,,IsaiahCanaan,91,6-0,190,PG,Murray St.,Sr.
+325,30,,RudyGobert,90,7-2,238,C,Cholet,1992
+326,31,3.0,ReggieBullock,88,6-7,200,SG/SF,North Carolina,Jr.
+327,32,1.0,JamaalFranklin,89,6-5,191,SG/SF,San Diego St.,Jr.
+328,33,-1.0,GlenRice,89,6-6,211,SG,USA,Jr.
+329,34,-7.0,RicardoLedo,90,6-6,197,SG,Providence,Fr.
+330,35,1.0,LorenzoBrown,90,6-5,189,PG/SG,NC State,Jr.
+331,36,1.0,JeffWithey,89,7-0,222,C,Kansas,Sr.
+332,37,1.0,CJLeslie,75,6-9,209,SF/PF,NC State,Jr.
+333,38,1.0,JamesEnnis,90,6-7,200,SG/SF,Long Beach State,Sr.
+334,39,1.0,RobertCovington,88,6-7,209,SF,Tennessee State,Sr.
+335,40,1.0,JamesSoutherland,82,6-8,221,SF/PF,Syracuse,Sr.
+336,41,1.0,PierreJackson,89,5-10,176,PG,Baylor,Sr.
+337,42,1.0,MyckKabongo,88,6-2,180,PG,Texas,So.
+338,43,1.0,ErikMurphy,86,6-10,240,PF,Florida,Sr.
+339,44,1.0,KennyKadji,88,6-10,242,PF/C,Miami,Sr.
+340,45,1.0,TrevorMbakwe,89,6-8,236,PF/C,Minnesota,Sr.
+341,46,1.0,RodneyWilliams,87,6-7,200,SF,Minnesota,Sr.
+342,47,1.0,BojanDubljevic,87,6-9,235,PF/C,Valencia,1991
+343,48,1.0,DeShaunThomas,74,6-6,220,SF/PF,Ohio St.,Jr.
+344,49,1.0,RyanKelly,87,6-11,230,PF,Duke,Sr.
+345,50,1.0,ArchieGoodwin,89,6-5,189,SG,Kentucky,Fr.
+346,51,1.0,GrantJerrett,87,6-10,232,PF,Arizona,Fr.
+347,52,1.0,RayMcCallum,88,6-1,190,PG,Detroit,Jr.
+348,53,1.0,AlexAbrines,87,6-6,190,SG,Barcelona Regal,1993
+349,54,1.0,DewayneDedmon,87,6-11,240,C,USC,Jr.
+350,55,1.0,CarrickFelix,89,6-6,203,SG/SF,Arizona St.,Sr.
+351,56,1.0,JanisTimma,85,6-8,226,SF,Ventspils,1992
+352,57,1.0,PeytonSiva,86,6-1,181,PG,Louisville,Sr.
+353,58,1.0,NemanjaNedovic,88,6-3,190,PG/SG,Lietuvos Rytas,1991
+354,59,1.0,AndreRoberson,87,6-7,206,SF/PF,Colorado,Jr.
+355,60,1.0,SolomonHill,89,6-7,226,SF,Arizona,Sr.
+356,61,1.0,AdonisThomas,87,6-6,232,SF,Memphis,So.
+357,62,1.0,JackieCarmichael,0,6-9,240,PF,Illinois State,Sr.
+358,63,1.0,VanderBlue,0,6-5,197,PG/SG,Marquette,Jr.
+359,64,1.0,VitalisChikoko,0,6-10,219,PF/C,TBB Trier,1991
+360,65,1.0,AmathMbaye,85,6-9,215,SF,Oklahoma,Jr.
+361,66,1.0,BrandonPaul,89,6-4,200,SG,Illinois,Sr.
+362,67,1.0,DJStephens,0,6-5,188,SG/SF,Memphis,Sr.
+363,68,1.0,ColtonIverson,85,7-0,263,PF/C,Colorado St.,Sr.
+364,69,1.0,RichardHowell,86,6-7,250,PF/C,NC State,Sr.
+365,70,1.0,MikeMuscala,88,6-11,230,PF/C,Bucknell,Sr.
+366,71,1.0,OleksandrLypovyy,0,6-8,200,SF,BC Donetsk,1991
+367,72,1.0,MichaelSnaer,85,6-5,200,SG,Florida St.,Sr.
+368,73,1.0,BJYoung,88,6-3,179,SG,Arkansas,So.
+369,74,1.0,AugustoLima,89,6-10,234,PF,Unicaja Malaga,1991
+370,75,1.0,BrandonDavies,87,6-10,242,PF,BYU,Sr.
+371,76,1.0,JordanAboudou,86,6-6,210,SG/SF,Chalon,1991
+372,77,1.0,ArsalanKazemi,87,6-7,230,PF,Oregon,Sr.
+373,78,1.0,RaulNeto,87,6-2,179,PG,Lagun Aro GBC,1992
+374,79,1.0,SethCurry,85,6-2,180,PG/SG,Duke,Sr.
+375,80,1.0,RodneyMcGruder,0,6-4,205,SG,Kansas State,Sr.
+376,81,1.0,AlexOriakhi,87,6-9,255,PF/C,Missouri,Sr.
+377,82,1.0,WillCherry,85,6-1,181,PG,Montana,Sr.
+378,83,1.0,DanielTheis,0,6-9,230,PF,Ratiopharm Ulm,1992
+379,84,1.0,MarkoTodorovic,85,6-11,240,PF/C,Barcelona Regal,1992
+380,85,1.0,CJAiken,71,6-9,200,SF/PF,St. Joseph's,Jr.
+381,86,1.0,EliasHarris,86,6-7,240,SF/PF,Gonzaga,Sr.
+382,87,1.0,PhilPressey,85,5-11,177,PG,Missouri,Jr.
+383,88,1.0,AlexandreParanhos,0,6-8,242,SF/PF,Flamengo,1992
+384,89,1.0,DerrickNix,85,6-9,270,PF/C,Michigan St.,Sr.
+385,90,1.0,KevinParrom,76,6-6,220,SG/SF,Arizona,Sr.
+386,91,1.0,JackCooley,87,6-9,245,PF,Notre Dame,Sr.
+387,92,1.0,JoffreyLauvergne,89,6-11,240,PF/C,KK Partizan,1991
+388,93,1.0,DurandScott,88,6-5,203,SG,Miami,Sr.
+389,94,1.0,ChristianWatford,85,6-9,230,SF,Indiana,Sr.
+390,95,1.0,BrandonTriche,86,6-2,210,PG/SG,Syracuse,Sr.
+391,96,1.0,ElijahJohnson,89,6-2,195,PG/SG,Kansas,Sr.
+392,97,1.0,KennyBoynton,87,6-2,190,PG/SG,Florida,Sr.
+393,98,1.0,DevinBooker,0,6-8,250,PF/C,Clemson,Sr.
+394,99,1.0,EdDaniel,0,6-7,225,SF/PF,Murray St.,Sr.
+395,100,1.0,MarshawnPowell,0,6-7,240,PF,Arkansas,Jr.
+396,2,100.0,JabariParker,100,6-9,240,SF/PF,Duke,Fr.
+397,3,99.0,AndrewWiggins,99,6-8,200,SF,Kansas,Fr.
+398,4,98.0,MarcusSmart,96,6-3,227,PG,Oklahoma State,So.
+399,5,97.0,DanteExum,95,6-6,196,PG/SG,,1995
+400,6,96.0,JuliusRandle,96,6-9,250,PF,Kentucky,Fr.
+401,7,95.0,NoahVonleh,95,6-9,247,PF,Indiana,Fr.
+402,8,94.0,ZachLaVine,95,6-6,180,PG/SG,UCLA,Fr.
+403,9,93.0,ElfridPayton,94,6-4,185,PG,Louisiana Lafayette,Jr.
+404,10,92.0,DougMcDermott,92,6-7,220,SF,Creighton,Sr.
+405,11,91.0,AaronGordon,92,6-9,220,PF,Arizona,Fr.
+406,12,90.0,GaryHarris,92,6-4,205,SG,Michigan St.,So.
+407,13,89.0,RodneyHood,94,6-8,208,SF,Duke,So.
+408,14,88.0,NikStauskas,92,6-6,207,SG,Michigan,So.
+409,15,87.0,GlennRobinson,92,6-7,211,SF,Michigan,So.
+410,16,86.0,TJWarren,93,6-8,220,SF,NC State,So.
+411,17,85.0,KyleAnderson,93,6-9,230,SF,UCLA,So.
+412,18,84.0,DarioSaric,75,6-10,225,SF/PF,Anadolu Efes,1994
+413,19,83.0,JordanClarkson,91,6-4,186,PG/SG,Missouri,Jr.
+414,20,82.0,ShabazzNapier,93,6-0,175,PG,UConn,Sr.
+415,21,81.0,TylerEnnis,93,6-2,180,PG,Syracuse,Fr.
+416,22,80.0,JamesYoung,92,6-6,215,SG,Kentucky,Fr.
+417,23,79.0,JusufNurkic,92,6-11,280,C,Cedevita Zagreb,1994
+418,24,78.0,JeramiGrant,93,6-8,214,SF,Syracuse,So.
+419,25,77.0,CleanthonyEarly,93,6-7,210,SF/PF,Wichita State,Sr.
+420,26,76.0,CJWilcox,91,6-5,201,SG,Washington,Sr.
+421,27,75.0,AdreianPayne,92,6-10,240,PF,Michigan St.,Sr.
+422,28,74.0,JordanAdams,91,6-5,209,SG,UCLA,So.
+423,29,73.0,BogdanBogdanovic,90,6-6,205,SG,KK Partizan,1992
+424,30,72.0,SpencerDinwiddie,92,6-6,205,PG/SG,Colorado,Jr.
+425,31,71.0,VasiljeMicic,91,6-6,202,PG,Mega Vizura,1994
+426,32,70.0,KJMcDaniels,89,6-6,196,SF,Clemson,Jr.
+427,33,69.0,JarnellStokes,87,6-8,260,PF,Tennessee,Jr.
+428,34,68.0,JohnnyO'Bryant,89,6-8,257,PF/C,LSU,Jr.
+429,35,67.0,MarkelBrown,91,6-4,185,SG,Oklahoma State,Sr.
+430,36,66.0,PJHairston,87,6-5,228,SG,USA,Jr.
+431,37,65.0,ClintCapela,87,6-11,222,PF/C,Chalon,1994
+432,38,64.0,DeAndreDaniels,90,6-8,195,SF,UConn,Jr.
+433,39,63.0,NickJohnson,89,6-3,198,SG,Arizona,Jr.
+434,40,62.0,DwightPowell,87,6-11,235,PF,Stanford,Sr.
+435,41,61.0,ThanasisAntetokounmpo,88,6-6,205,SF,Delaware 87ers,1992
+436,42,60.0,SemajChriston,91,6-3,186,PG,Xavier,So.
+437,43,59.0,KhemBirch,88,6-9,209,PF,UNLV,Jr.
+438,44,58.0,DamienInglis,89,6-9,240,SF/PF,Roanne,1995
+439,45,57.0,MitchMcGary,89,6-10,266,C,Michigan,So.
+440,46,56.0,JabariBrown,86,6-4,215,SG,Missouri,Jr.
+441,47,55.0,JamesMcAdoo,87,6-9,230,PF,North Carolina,Jr.
+442,48,54.0,CameronBairstow,87,6-10,252,PF,New Mexico,Sr.
+443,49,53.0,DeonteBurton,88,6-1,193,PG/SG,Nevada,Sr.
+444,50,52.0,CJFair,89,6-8,218,SF,Syracuse,Sr.
+445,51,51.0,CoryJefferson,87,6-9,220,PF,Baylor,Sr.
+446,52,50.0,AlecBrown,85,7-1,231,PF/C,Wisconsin Green Bay,Sr.
+447,53,49.0,AlessandroGentile,86,6-7,230,SG/SF,Olimpia Milano,1992
+448,54,48.0,ArtemKlimenko,86,7-0,245,C,Avtodor,1994
+449,55,47.0,NemanjaDangubic,0,6-8,195,SG,Mega Vizura,1993
+450,56,46.0,RonaldRoberts,86,6-8,215,PF,St. Joseph's,Sr.
+451,57,45.0,DeAndreKane,86,6-4,200,PG/SG,Iowa St.,Sr.
+452,58,44.0,TarikBlack,0,6-9,260,PF/C,Kansas,Sr.
+453,59,43.0,PatricYoung,86,6-10,247,PF/C,Florida,Sr.
+454,60,42.0,JuvonteReddic,86,6-9,250,PF/C,VCU,Sr.
+455,61,41.0,NikolaJokic,85,6-11,255,PF/C,Mega Vizura,1995
+456,62,40.0,WalterTavares,88,7-3,260,C,Gran Canaria,1992
+457,63,39.0,FuquanEdwin,89,6-6,210,SG/SF,Seton Hall,Sr.
+458,64,38.0,AndreDawkins,85,6-5,205,SG,Duke,Sr.
+459,65,37.0,OjarsSilins,86,6-9,210,SF,Reggio Emilia,1993
+460,66,36.0,SeanKilpatrick,86,6-4,220,SG,Cincinnati,Sr.
+461,67,35.0,JahiiCarson,86,5-11,180,PG,Arizona St.,So.
+462,68,34.0,KendallWilliams,0,6-3,183,PG,New Mexico,Sr.
+463,69,33.0,RoyDevyn,85,6-6,192,SG,Iowa,Sr.
+464,70,32.0,KeithAppling,85,6-1,180,PG/SG,Michigan St.,Sr.
+465,71,31.0,XavierThames,84,6-3,187,PG/SG,San Diego St.,Sr.
+466,72,30.0,CristianoFelicio,0,6-10,250,PF/C,Flamengo,1992
+467,73,29.0,JordanBachynski,86,7-2,248,C,Arizona St.,Sr.
+468,74,28.0,CaseyPrather,0,6-5,200,SG,Florida,Sr.
+469,75,27.0,AxelToupane,0,6-7,197,SG/SF,Strasbourg,1992
+470,76,26.0,OndrejBalvin,0,7-2,280,C,Cajasol Sevilla,1992
+471,77,25.0,LaQuintonRoss,84,6-8,240,SF,Ohio St.,Jr.
+472,78,24.0,JustinCobbs,0,6-2,190,PG,California,Sr.
+473,79,23.0,RussSmith,85,6-1,160,PG/SG,Louisville,Sr.
+474,80,22.0,EricMoreland,0,6-10,225,PF/C,Oregon St.,Jr.
+475,81,21.0,AkilMitchell,86,6-9,230,PF,Virginia,Sr.
+476,82,20.0,JordanMcRae,85,6-5,180,SG,Tennessee,Sr.
+477,83,19.0,GeronJohnson,0,6-3,203,SG,Memphis,Sr.
+478,84,18.0,LamarPatterson,85,6-5,225,SG/SF,Pittsburgh,Sr.
+479,85,17.0,MelvinEjim,83,6-6,220,SF/PF,Iowa St.,Sr.
+480,86,16.0,JerrelleBenimon,0,6-8,245,PF,Towson,Sr.
+481,87,15.0,RoscoeSmith,85,6-9,202,PF,UNLV,Jr.
+482,88,14.0,BrendanLane,0,6-9,235,PF,Pepperdine,Sr.
+483,89,13.0,RichardSolomon,0,6-11,225,PF/C,California,Sr.
+484,90,12.0,ScottieWilbekin,0,6-3,170,PG,Florida,Sr.
+485,91,11.0,CameronClark,0,6-6,210,SF,Oklahoma,Sr.
+486,92,10.0,TalibZanna,0,6-8,230,PF,Pittsburgh,Sr.
+487,93,9.0,DevinOliver,0,6-7,225,SF,Dayton,Sr.
+488,94,8.0,SimBhullar,0,7-5,360,C,New Mexico St.,So.
+489,95,7.0,JoeJackson,86,6-0,170,PG,Memphis,Sr.
+490,96,6.0,RobertoNelson,0,6-3,195,PG/SG,Oregon St.,Sr.
+491,97,5.0,AaronCraft,84,6-2,192,PG,Ohio St.,Sr.
+492,98,4.0,BryceCotton,0,6-0,165,PG,Providence,Sr.
+493,99,3.0,AlexKirk,84,6-10,252,C,New Mexico,Jr.
+494,100,2.0,JamilWilson,0,6-7,220,SF,Marquette,Sr.
+495,2,1.0,EmmanuelMudiay,99,6-5,200,PG,Guangdong,1996
+496,3,1.0,D'AngeloRussell,98,6-4,195,PG/SG,Ohio St.,Fr.
+497,4,1.0,JahlilOkafor,98,6-11,270,C,Duke,Fr.
+498,5,1.0,MarioHezonja,94,6-8,215,SG/SF,FC Barcelona,1995
+499,6,1.0,JustiseWinslow,97,6-6,222,SG/SF,Duke,Fr.
+500,7,1.0,KristapsPorzingis,96,7-1,230,PF,Cajasol Sevilla,1995
+501,8,1.0,StanleyJohnson,97,6-6,242,SF,Arizona,Fr.
+502,9,1.0,TreyLyles,95,6-10,240,PF,Kentucky,Fr.
+503,10,1.0,CameronPayne,93,6-2,185,PG,Murray St.,So.
+504,11,1.0,MylesTurner,94,6-11,240,C,Texas,Fr.
+505,12,2.0,DevinBooker,92,6-6,205,SG,Kentucky,Fr.
+506,13,,SamDekker,94,6-9,220,SF,Wisconsin,Jr.
+507,14,1.0,WillieCauley-Stein,92,7-0,242,C,Kentucky,Jr.
+508,15,1.0,BobbyPortis,91,6-11,245,PF,Arkansas,So.
+509,16,1.0,KellyOubre,93,6-7,205,SF,Kansas,Fr.
+510,17,3.0,TerryRozier,92,6-2,190,PG,Louisville,So.
+511,18,,MontrezlHarrell,92,6-8,255,PF,Louisville,Jr.
+512,19,,RashadVaughn,91,6-5,200,SG,UNLV,Fr.
+513,20,2.0,JerianGrant,93,6-4,200,PG,Notre Dame,Sr.
+514,21,2.0,JustinAnderson,92,6-6,230,SG/SF,Virginia,Jr.
+515,22,2.0,FrankKaminsky,91,7-1,230,C,Wisconsin,Sr.
+516,23,-2.0,DelonWright,93,6-5,180,PG/SG,Utah,Sr.
+517,24,1.0,KevonLooney,92,6-9,222,PF,UCLA,Fr.
+518,25,2.0,ChrisMcCullough,92,6-9,200,PF,Syracuse,Fr.
+519,26,,RondaeHollis-Jefferson,90,6-7,210,SF,Arizona,So.
+520,27,1.0,NormanPowell,91,6-4,215,SG,UCLA,Sr.
+521,28,2.0,TyusJones,91,6-1,185,PG,Duke,Fr.
+522,29,2.0,JordanMickey,90,6-8,240,PF,LSU,So.
+523,30,6.0,RakeemChristmas,91,6-9,245,PF/C,Syracuse,Sr.
+524,31,-2.0,GuillermoHernangomez,90,6-11,250,PF/C,Cajasol Sevilla,1994
+525,32,,RichaunHolmes,91,6-9,245,PF,Bowling Green,Sr.
+526,33,,RJHunter,89,6-6,185,SG,Georgia St.,Jr.
+527,34,,OlivierHanlan,89,6-4,185,PG/SG,Boston College,Jr.
+528,35,,JarellMartin,89,6-9,240,PF,LSU,So.
+529,36,1.0,CediOsman,91,6-8,215,SF,Anadolu Efes,1995
+530,37,1.0,CliffAlexander,89,6-8,240,PF/C,Kansas,Fr.
+531,38,1.0,ChristianWood,90,6-10,215,PF,UNLV,So.
+532,39,1.0,TerranPetteway,90,6-6,210,SF,Nebraska,Jr.
+533,40,1.0,JonathanHolmes,89,6-9,245,PF,Texas,Sr.
+534,41,1.0,DakariJohnson,89,7-0,260,C,Kentucky,So.
+535,42,1.0,LuisMontero,89,6-7,195,SG/SF,JUCO,So.
+536,43,1.0,NikolaMilutinov,85,7-0,225,PF/C,KK Partizan,1994
+537,44,1.0,JosephYoung,88,6-2,185,PG/SG,Oregon,Sr.
+538,45,1.0,AnthonyBrown,87,6-7,210,SG/SF,Stanford,Sr.
+539,46,1.0,TravisTrice,89,6-1,170,PG,Michigan St.,Sr.
+540,47,1.0,JPTokoto,89,6-6,195,SG/SF,North Carolina,Jr.
+541,48,1.0,BrandonAshley,87,6-8,230,PF,Arizona,Jr.
+542,49,1.0,JoshRichardson,87,6-6,200,SG,Tennessee,Sr.
+543,50,1.0,MouhammadouJaiteh,85,6-11,250,C,Nanterre,1994
+544,51,1.0,AndrewHarrison,89,6-6,215,PG/SG,Kentucky,So.
+545,52,1.0,VinceHunter,0,6-8,210,SF/PF,UTEP,So.
+546,53,1.0,PatConnaughton,88,6-5,215,SG,Notre Dame,Sr.
+547,54,1.0,BrandenDawson,71,6-7,230,SF/PF,Michigan St.,Sr.
+548,55,1.0,AaronWhite,85,6-9,220,SF/PF,Iowa,Sr.
+549,56,1.0,ArturasGudaitis,88,6-10,255,C,Zalgiris Kaunas,1993
+550,57,1.0,MichaelFrazier,0,6-5,200,SG,Florida,Jr.
+551,58,1.0,ChassonRandle,86,6-2,180,PG/SG,Stanford,Sr.
+552,59,1.0,LarryNance,87,6-9,230,PF,Wyoming,Sr.
+553,60,1.0,RobertUpshaw,86,7-0,260,C,Washington,So.
+554,61,1.0,BryceDejean-Jones,0,6-6,205,SG,Iowa St.,Sr.
+555,62,1.0,RyanBoatright,89,5-11,170,PG,UConn,Sr.
+556,63,1.0,JuwanStaten,89,6-0,190,PG,West Virginia,Sr.
+557,64,1.0,TreveonGraham,0,6-6,220,SG,VCU,Sr.
+558,65,1.0,LukaMitrovic,72,6-8,200,SF/PF,Crvena Zvezda,1993
+559,66,1.0,KevinPangos,0,6-2,185,PG,Gonzaga,Sr.
+560,67,1.0,JarvisWilliams,86,6-7,215,PF,Murray St.,Sr.
+561,68,1.0,LeBryanNash,84,6-8,232,SF/PF,Oklahoma State,Sr.
+562,69,1.0,MichaelQualls,89,6-5,205,SF,Arkansas,Jr.
+563,70,1.0,AaronHarrison,87,6-6,210,SG,Kentucky,So.
+564,71,1.0,TashawnThomas,86,6-8,240,PF,Oklahoma,Sr.
+565,72,1.0,TylerHarvey,86,6-4,180,SG,Eastern Washington,Jr.
+566,73,1.0,TJMcConnell,0,6-2,190,PG,Arizona,Sr.
+567,74,1.0,DanielDiez,71,6-8,220,SF/PF,Gipuzkoa Basket,1993
+568,75,1.0,DezWells,88,6-4,210,SG,Maryland,Sr.
+569,76,1.0,ChrisWalker,84,6-10,210,PF,Florida,So.
+570,77,1.0,KeiferSykes,0,6-0,170,PG,Wisconsin Green Bay,Sr.
+571,78,1.0,WillCummings,0,6-1,180,PG,Temple,Sr.
+572,79,1.0,Sir'DominicPointer,0,6-6,190,SF,St. Johns,Sr.
+573,80,1.0,QuinnCook,86,6-1,180,PG,Duke,Sr.
+574,81,1.0,AlanWilliams,86,6-8,260,PF/C,UC Santa Barbara,Sr.
+575,82,1.0,D'AngeloHarrison,0,6-3,215,SG,St. Johns,Sr.
+576,83,1.0,AdinVrabac,0,6-8,200,SF,KK Partizan,1994
+577,84,1.0,CoreyHawkins,0,6-2,190,SG,UC Davis,Sr.
+578,85,1.0,KevinDinal,0,6-9,250,PF,Souffel,1993
+579,86,1.0,ShawnDawson,83,6-6,190,SG/SF,Maccabi Rishon Lezion,1993
+580,87,1.0,DarrunHilliard,0,6-7,220,SG,Villanova,Sr.
+581,88,1.0,CadyLalanne,0,6-9,240,C,Massachusetts,Sr.
+582,89,1.0,DJNewbill,0,6-4,215,SG,Penn State,Sr.
+583,90,1.0,RalstonTurner,0,6-6,210,SG,NC State,Sr.
+584,91,1.0,MarcusThornton,85,6-3,180,PG/SG,William & Mary,Sr.
+585,92,1.0,TrevorLacey,78,6-3,210,PG/SG,NC State,Jr.
+586,93,1.0,MarcusEriksson,84,6-7,190,SG,FC Barcelona,1993
+587,94,1.0,AskiaBooker,0,6-2,170,PG,Colorado,Sr.
+588,95,1.0,DerrickMarks,0,6-3,210,PG/SG,Boise State,Sr.
+589,96,1.0,DavidKravish,0,6-10,240,PF,California,Sr.
+590,97,1.0,JuanVaulet,85,6-7,200,SG/SF,Bahia Basket,1996
+591,98,1.0,LaDontaeHenton,85,6-5,215,SF,Providence,Sr.
+592,99,1.0,DarionAtkins,0,6-8,240,PF,Virginia,Sr.
+593,100,1.0,NikolaRadicevic,0,6-5,200,PG/SG,Cajasol Sevilla,1994
+594,2,1.0,BrandonIngram,99,6-9,195,SF,Duke,Fr.
+595,3,1.0,JaylenBrown,97,6-6,225,SG/SF,California,Fr.
+596,4,1.0,KrisDunn,96,6-4,220,PG,Providence,Jr.
+597,5,1.0,BuddyHield,95,6-5,215,SG,Oklahoma,Sr.
+598,6,1.0,DraganBender,95,7-0,220,PF,Maccabi Tel Aviv,1997
+599,7,1.0,MarqueseChriss,93,6-10,235,PF,Washington,Fr.
+600,8,2.0,DomantasSabonis,94,6-10,240,PF/C,Gonzaga,So.
+601,9,2.0,FurkanKorkmaz,93,6-7,175,SG,Anadolu Efes,1997
+602,10,-1.0,JamalMurray,93,6-4,205,PG/SG,Kentucky,Fr.
+603,11,1.0,DejounteMurray,93,6-5,170,PG/SG,Washington,Fr.
+604,12,10.0,MalikBeasley,92,6-5,190,SG,Florida St.,Fr.
+605,13,,DeyontaDavis,92,6-10,240,PF/C,Michigan St.,Fr.
+606,14,3.0,SkalLabissiere,92,7-0,215,PF/C,Kentucky,Fr.
+607,15,-1.0,DamianJones,92,6-11,245,C,Vanderbilt,Jr.
+608,16,-1.0,BriceJohnson,92,6-10,210,PF,North Carolina,Sr.
+609,17,-1.0,JakobPoeltl,95,7-1,240,C,Utah,So.
+610,18,1.0,HenryEllenson,91,6-11,245,PF/C,Marquette,Fr.
+611,19,1.0,MalachiRichardson,92,6-6,200,SG,Syracuse,Fr.
+612,20,1.0,DenzelValentine,91,6-5,210,SG/SF,Michigan St.,Sr.
+613,21,4.0,IvicaZubac,93,7-0,265,C,Mega Leks,1997
+614,22,-4.0,CarisLeVert,90,6-7,190,SG,Michigan,Sr.
+615,23,,PatrickMcCaw,91,6-6,180,SG,UNLV,So.
+616,24,4.0,GuerschonYabusele,91,6-8,260,PF,SPO Rouen,1995
+617,25,-1.0,CheickDiallo,91,6-9,220,PF/C,Kansas,Fr.
+618,26,,ThonMaker,90,7-1,215,PF/C,Australia,HSSr.
+619,27,6.0,TaureanPrince,90,6-8,220,SF,Baylor,Sr.
+620,28,1.0,JuanHernangomez,90,6-9,225,PF,Asefa Estudiantes,1995
+621,29,-2.0,StephenZimmerman,91,6-11,235,PF/C,UNLV,Fr.
+622,30,1.0,DeAndreBembry,90,6-5,205,SG/SF,St. Joseph's,Jr.
+623,31,3.0,AnteZizic,90,6-11,250,C,Cibona Zagreb,1997
+624,32,-2.0,TimotheLuwawu,90,6-7,195,SG/SF,Mega Leks,1995
+625,33,-1.0,WadeBaldwin,89,6-4,200,PG/SG,Vanderbilt,So.
+626,34,5.0,MalcolmBrogdon,89,6-5,225,SG,Virginia,Sr.
+627,35,1.0,GaryPayton,90,6-3,185,PG/SG,Oregon St.,Sr.
+628,36,-1.0,PascalSiakam,90,6-9,230,PF,New Mexico St.,So.
+629,37,,DiamondStone,89,6-10,255,C,Maryland,Fr.
+630,38,,DemetriusJackson,89,6-1,195,PG,Notre Dame,Jr.
+631,39,1.0,AnthonyBarber,90,6-3,175,PG,NC State,Jr.
+632,40,1.0,JoelBolomboy,90,6-9,225,PF,Weber St.,Sr.
+633,41,1.0,MichaelGbinije,92,6-7,205,SG/SF,Syracuse,Sr.
+634,42,1.0,KahlilFelder,87,5-9,175,PG,Oakland,Jr.
+635,43,5.0,IsaiahWhitehead,89,6-4,210,PG/SG,Seton Hall,So.
+636,44,10.0,DanielHamilton,88,6-7,200,SG/SF,UConn,So.
+637,45,-1.0,TylerUlis,89,5-10,150,PG,Kentucky,So.
+638,46,-1.0,IsaiahCousins,89,6-4,190,PG/SG,Oklahoma,Sr.
+639,47,-1.0,BenBentil,89,6-8,230,PF,Providence,So.
+640,48,-1.0,WayneSelden,90,6-5,230,SG,Kansas,Jr.
+641,49,3.0,GeorgiosPapagiannis,89,7-2,275,C,Panathinaikos,1997
+642,50,-1.0,ZhouQi,86,7-2,215,PF/C,Xinjiang,1996
+643,51,-1.0,AJHammons,90,7-0,260,C,Purdue,Sr.
+644,52,-1.0,PerryEllis,88,6-8,220,PF,Kansas,Sr.
+645,53,,ZachAuguste,89,6-10,240,PF,Notre Dame,Sr.
+646,54,1.0,DanuelHouse,86,6-7,215,SG/SF,Texas A&M,Sr.
+647,55,1.0,TroyWilliams,86,6-7,215,SF,Indiana,Jr.
+648,56,1.0,RonBaker,91,6-4,215,SG,Wichita State,Sr.
+649,57,1.0,JamesWebb,0,6-9,200,SF/PF,Boise State,Jr.
+650,58,1.0,IsaiaCordinier,85,6-5,180,SG,Denain,1996
+651,59,1.0,TyroneWallace,90,6-5,205,PG/SG,California,Sr.
+652,60,1.0,JulianJacobs,0,6-4,180,PG/SG,USC,Jr.
+653,61,1.0,PetrCornelie,85,6-11,210,PF/C,Le Mans,1995
+654,62,1.0,RadeZagorac,88,6-9,200,SG/SF,Mega Vizura,1995
+655,63,1.0,DerrickJones,85,6-7,190,SF,UNLV,Fr.
+656,64,1.0,IsaiahMiles,73,6-8,220,SF/PF,St. Joseph's,Sr.
+657,65,1.0,DorianFinney-Smith,86,6-8,215,SF/PF,Florida,Sr.
+658,66,1.0,ChrisObekpa,0,6-9,240,C,UNLV,Sr.
+659,67,1.0,GracinBakumanya,86,6-11,220,C,,1997
+660,68,1.0,MarcusPaige,88,6-2,165,PG,North Carolina,Sr.
+661,69,1.0,KyleWiltjer,84,6-10,245,PF,Gonzaga,Sr.
+662,70,1.0,IsaiahTaylor,91,6-2,180,PG,Texas,Jr.
+663,71,1.0,RobertCarter,85,6-8,250,PF,Maryland,Jr.
+664,72,1.0,SheldonMcClellan,86,6-6,200,SG,Miami,Sr.
+665,73,1.0,AlexPoythress,0,6-8,240,PF,Kentucky,Sr.
+666,74,1.0,JakeLayman,87,6-9,210,SF,Maryland,Sr.
+667,75,1.0,JarrodUthoff,87,6-10,215,PF,Iowa,Sr.
+668,76,1.0,DamionLee,85,6-6,210,SG,Louisville,Sr.
+669,77,1.0,JoshAdams,0,6-2,190,PG,Wyoming,Sr.
+670,78,1.0,GeorgesNiang,72,6-8,230,SF/PF,Iowa St.,Sr.
+671,79,1.0,PaulZipser,86,6-8,210,SF,Bayern Munich,1994
+672,80,1.0,YogiFerrell,85,6-0,180,PG,Indiana,Sr.
+673,81,1.0,KalebTarczewski,0,7-0,245,C,Arizona,Sr.
+674,82,1.0,DavidMichineau,88,6-4,180,PG,Chalon,1994
+675,83,1.0,TimQuarterman,0,6-6,190,SG,LSU,Jr.
+676,84,1.0,RoscoAllen,0,6-9,220,SF,Stanford,Jr.
+677,85,1.0,AJEnglish,0,6-3,180,PG/SG,Iona,Sr.
+678,86,1.0,OriolPauli,0,6-6,185,SG,Gran Canaria,1994
+679,87,1.0,DevinThomas,0,6-9,250,PF,Wake Forest,Sr.
+680,88,1.0,RyanAnderson,0,6-9,235,PF,Arizona,Sr.
+681,89,1.0,ChinanuOnuaku,85,6-10,245,C,Louisville,So.
+682,90,1.0,AnthonyGill,0,6-8,230,PF,Virginia,Sr.
+683,91,1.0,ShawnLong,0,6-10,250,PF,Louisiana Lafayette,Sr.
+684,92,1.0,JalenJones,0,6-7,225,SF,Texas A&M,Sr.
+685,93,1.0,TylerHarris,80,6-9,220,PF,Auburn,Sr.
+686,94,1.0,AndrewAndrews,0,6-2,205,SG,Washington,Sr.
+687,95,1.0,PrinceIbeh,85,6-11,260,C,Texas,Sr.
+688,96,1.0,StefanJankovic,0,6-11,235,PF,Hawaii,Jr.
+689,97,1.0,BrannenGreene,0,6-7,215,SG/SF,Kansas,Jr.
+690,98,1.0,D'VauntesSmith-Rivera,0,6-3,215,PG/SG,Georgetown,Sr.
+691,99,1.0,GoodluckOkonoboh,0,6-10,225,C,UNLV,So.
+692,100,1.0,EmmanuelMalou,0,6-9,215,SF/PF,JUCO,So.
