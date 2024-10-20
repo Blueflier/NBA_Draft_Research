@@ -1,4 +1,4 @@
-# NBA-Draft-Biola-Summer-Research
+# NBA-Draft Machine Learning Research
 Goal: Improve the current NBA's success rate of picking Draft players using Machine Learning.
 
 What we accomplished:
